@@ -54,29 +54,31 @@ for q in questions:
             # Because Math questions' process teks are formatted funny, we have to extract each one individually.
             for key in q.keys():
                 if '.' in key:  # If there is a period in the key, it must be a TEKS statement
-                    if q[key] is not '':  # There is some marking indicating the question tests that TEKS
+                    if q[key].strip() is not '':  # There is some marking indicating the question tests that TEKS
                         questions_by_process_teks[q['SUBJECT'] +' '+key].append(q)
 
 with open('STAAR_QUESTIONS_LIST_CONTENT.csv', 'w+') as file:
     writer = csv.writer(file)
     for teks in iter(sorted(questions_by_content_teks.items())):
-        row = [f'{teks[0]}']
-        # print(f'{teks[0]}:', end='\t\t')
-        for q in teks[1]:
-            row.append(f'{q["TEST DATE"]} {q["LANGUAGE"] if "LANGUAGE" in q.keys() else None} #{q["ITEM"]}')
-            # print(f'{q["TEST DATE"]} #{q["ITEM"]}', end='\t\t')
-        writer.writerow(row)
-        print(row)
+        if f'{teks[0]}'.strip() is not '' and '*' not in f'{teks[0]}':
+            row = [f'{teks[0]}'.strip()]
+            # print(f'{teks[0]}:', end='\t\t')
+            for q in teks[1]:
+                row.append(f'{q["TEST DATE"]} {q["LANGUAGE"] if "LANGUAGE" in q.keys() else ""} #{q["ITEM"]}')
+                # print(f'{q["TEST DATE"]} #{q["ITEM"]}', end='\t\t')
+            writer.writerow(row)
+            print(row)
 
 with open('STAAR_QUESTIONS_LIST_PROCESS.csv', 'w+') as file:
     writer = csv.writer(file)
     for teks in iter(sorted(questions_by_process_teks.items())):
-        row = [f'{teks[0]}']
-        # print(f'{teks[0]}:', end='\t\t')
-        for q in teks[1]:
-            row.append(f'{q["TEST DATE"]} {q["LANGUAGE"] if "LANGUAGE" in q.keys() else None} #{q["ITEM"]}')
-            # print(f'{q["TEST DATE"]} #{q["ITEM"]}', end='\t\t')
-        writer.writerow(row)
-        print(row)
+        if f'{teks[0]}'.strip() is not '' and '*' not in f'{teks[0]}':
+            row = [f'{teks[0]}'.strip()]
+            # print(f'{teks[0]}:', end='\t\t')
+            for q in teks[1]:
+                row.append(f'{q["TEST DATE"]} {q["LANGUAGE"] if "LANGUAGE" in q.keys() else ""} #{q["ITEM"]}')
+                # print(f'{q["TEST DATE"]} #{q["ITEM"]}', end='\t\t')
+            writer.writerow(row)
+            print(row)
 
 

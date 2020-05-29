@@ -1,193 +1,185 @@
- , None #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #, None #,  #,  #, None #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #, None #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #, None #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #,  #, None #, None #,  #,  #,  #,  #,  #,  #,  #,  #,  #
-                     , None #, None #, None #, None #, None #, None #, None #, None #, None #, None #, None #, None #, None #, None #
-                                                                               , None #, None #, None #, None #, None #, None #
-* A scoring guide is used to determine the scores for the written composition and short answers. , None #, None #, None #, None #
-* A scoring guide is used to determine the scores for the written composition. , None #
-*A scoring guide is used to determine the score for the written composition. , None #, None #
-*A scoring guide is used to determine the score for the written composition.                                                                , None #, None #, None #, None #, None #
-*A scoring guide is used to determine the scores for the written composition and short answers. , None #, None #, None #, None #, None #
-Algebra I A.1(A),Spring 2015 None #15,Spring 2014 None #29,Spring 2014 None #4
-Algebra I A.1(B),Spring 2015 None #46,Spring 2014 None #19
-Algebra I A.1(C),Spring 2015 None #21,Spring 2014 None #44
-Algebra I A.1(D),Spring 2015 None #7,Spring 2015 None #49,Spring 2014 None #2,Spring 2014 None #42,Spring 2014 None #15,Spring 2014 None #28
-Algebra I A.1(E),Spring 2015 None #9,Spring 2015 None #26,Spring 2015 None #32,Spring 2014 None #6,Spring 2014 None #10,Spring 2014 None #27,Spring 2014 None #9,Spring 2014 None #35,Spring 2014 None #54
-Algebra I A.10(A),Spring 2016 None #2,Spring 2015 None #3,Spring 2015 None #30,Spring 2015 None #37,2019 May None #16,Spring 2016 None #2,May-17 None #13,Spring 2014 None #9,Spring 2014 None #14,Spring 2014 None #36,Spring 2014 None #13,Spring 2014 None #24,Spring 2014 None #40
-Algebra I A.10(B),Spring 2016 None #54,Spring 2016 None #54,2018 May None #36,Spring 2014 None #5
-Algebra I A.10(D),Spring 2016 None #15,2019 May None #36,Spring 2016 None #15,2018 May None #2
-Algebra I A.10(E),Spring 2016 None #6,Spring 2016 None #49,2019 May None #4,2019 May None #29,2019 May None #48,Spring 2016 None #6,Spring 2016 None #49,May-17 None #17,May-17 None #28,May-17 None #41,2018 May None #11,2018 May None #31,2018 May None #44
-Algebra I A.10(F),Spring 2016 None #25,Spring 2016 None #25
-Algebra I A.11(A),Spring 2015 None #12,2019 May None #53,May-17 None #1,2018 May None #53,Spring 2014 None #50
-Algebra I A.11(B),Spring 2016 None #10,Spring 2016 None #31,Spring 2015 None #50,2019 May None #13,2019 May None #24,2019 May None #34,Spring 2016 None #10,Spring 2016 None #31,May-17 None #6,May-17 None #20,May-17 None #51,2018 May None #6,2018 May None #28,2018 May None #49,Spring 2014 None #4,Spring 2014 None #18
-Algebra I A.11(C),Spring 2015 None #22
-Algebra I A.12(A),Spring 2016 None #36,2019 May None #44,Spring 2016 None #36,May-17 None #38
-Algebra I A.12(B),Spring 2016 None #27,2019 May None #8,Spring 2016 None #27,May-17 None #47,2018 May None #20
-Algebra I A.12(C),May-17 None #22
-Algebra I A.12(D),2018 May None #9
-Algebra I A.12(E),Spring 2016 None #18,Spring 2016 None #18
-Algebra I A.2(A),Spring 2016 None #30,Spring 2016 None #44,Spring 2015 None #51,2019 May None #11,Spring 2016 None #30,Spring 2016 None #44,May-17 None #5,May-17 None #44,2018 May None #13,2018 May None #47,Spring 2014 None #26,Spring 2014 None #16
-Algebra I A.2(B),Spring 2016 None #46,Spring 2015 None #16,Spring 2015 None #54,2019 May None #6,Spring 2016 None #46,May-17 None #23,Spring 2014 None #15,Spring 2014 None #37,Spring 2014 None #10,Spring 2014 None #39
-Algebra I A.2(C),Spring 2016 None #5,Spring 2016 None #35,Spring 2015 None #38,2019 May None #23,2019 May None #32,Spring 2016 None #5,Spring 2016 None #35,May-17 None #33,May-17 None #50,2018 May None #1,2018 May None #43,Spring 2014 None #34,Spring 2014 None #30
-Algebra I A.2(D),Spring 2016 None #42,Spring 2015 None #1,Spring 2015 None #33,2019 May None #54,Spring 2016 None #42,May-17 None #27,2018 May None #10,Spring 2014 None #1,Spring 2014 None #18,Spring 2014 None #2,Spring 2014 None #51
-Algebra I A.2(E),2019 May None #45
-Algebra I A.2(F),2019 May None #10,2018 May None #39
-Algebra I A.2(G),May-17 None #36,2018 May None #32
-Algebra I A.2(H),Spring 2016 None #3,2019 May None #15,Spring 2016 None #3,May-17 None #25
-Algebra I A.2(I),Spring 2016 None #13,Spring 2016 None #48,2019 May None #30,2019 May None #51,Spring 2016 None #13,Spring 2016 None #48,May-17 None #2,May-17 None #48,2018 May None #24,2018 May None #37
-Algebra I A.3(A),Spring 2016 None #51,Spring 2015 None #28,2019 May None #1,Spring 2016 None #51,May-17 None #16,2018 May None #51,Spring 2014 None #21,Spring 2014 None #32
-Algebra I A.3(B),Spring 2016 None #1,Spring 2016 None #19,Spring 2016 None #38,Spring 2015 None #5,2019 May None #5,2019 May None #20,2019 May None #39,Spring 2016 None #1,Spring 2016 None #19,Spring 2016 None #38,May-17 None #26,May-17 None #52,2018 May None #21,2018 May None #42,Spring 2014 None #39,Spring 2014 None #23
-Algebra I A.3(C),Spring 2016 None #14,Spring 2016 None #23,Spring 2016 None #43,2019 May None #7,2019 May None #26,2019 May None #35,Spring 2016 None #14,Spring 2016 None #23,Spring 2016 None #43,May-17 None #12,May-17 None #32,May-17 None #42,2018 May None #16,2018 May None #27,2018 May None #54
-Algebra I A.3(D),Spring 2016 None #7,Spring 2016 None #47,2019 May None #17,2019 May None #47,Spring 2016 None #7,Spring 2016 None #47,May-17 None #3,May-17 None #37,2018 May None #19,2018 May None #45
-Algebra I A.3(E),Spring 2016 None #11,2019 May None #52,Spring 2016 None #11,May-17 None #45,2018 May None #35
-Algebra I A.3(F),Spring 2016 None #32,2019 May None #49,Spring 2016 None #32,May-17 None #29,2018 May None #3
-Algebra I A.4(A),Spring 2015 None #14,Spring 2015 None #25,Spring 2015 None #48,May-17 None #19,Spring 2014 None #32,Spring 2014 None #8,Spring 2014 None #25,Spring 2014 None #42
-Algebra I A.4(B),Spring 2015 None #19,May-17 None #9,2018 May None #25,Spring 2014 None #5,Spring 2014 None #47
-Algebra I A.4(C),Spring 2016 None #26,2019 May None #22,Spring 2016 None #26,2018 May None #12
-Algebra I A.5(A),Spring 2016 None #8,Spring 2016 None #52,2019 May None #3,2019 May None #42,Spring 2016 None #8,Spring 2016 None #52,May-17 None #11,May-17 None #40,2018 May None #8,2018 May None #34,Spring 2014 None #38
-Algebra I A.5(B),Spring 2016 None #33,Spring 2015 None #34,Spring 2016 None #33,2018 May None #30,Spring 2014 None #27
-Algebra I A.5(C),Spring 2016 None #20,Spring 2016 None #39,Spring 2015 None #11,Spring 2015 None #29,Spring 2015 None #39,2019 May None #25,2019 May None #37,Spring 2016 None #20,Spring 2016 None #39,May-17 None #18,May-17 None #54,2018 May None #15,2018 May None #52,Spring 2014 None #11,Spring 2014 None #19,Spring 2014 None #1,Spring 2014 None #22,Spring 2014 None #41
-Algebra I A.6(A),Spring 2016 None #12,Spring 2016 None #53,Spring 2015 None #8,2019 May None #2,2019 May None #50,Spring 2016 None #12,Spring 2016 None #53,May-17 None #30,May-17 None #53,2018 May None #5,2018 May None #38,Spring 2014 None #8,Spring 2014 None #3
-Algebra I A.6(B),Spring 2015 None #4,Spring 2015 None #47,2019 May None #43,May-17 None #43,2018 May None #26,Spring 2014 None #25,Spring 2014 None #35,Spring 2014 None #17,Spring 2014 None #38
-Algebra I A.6(C),Spring 2015 None #13,Spring 2015 None #36,Spring 2015 None #43,2019 May None #28,May-17 None #10,2018 May None #7,Spring 2014 None #3,Spring 2014 None #17,Spring 2014 None #28,Spring 2014 None #7,Spring 2014 None #29,Spring 2014 None #45
-Algebra I A.6(D),Spring 2015 None #23,Spring 2014 None #31,Spring 2014 None #48
-Algebra I A.6(E),Spring 2015 None #41,Spring 2014 None #20
-Algebra I A.6(F),Spring 2015 None #18,Spring 2015 None #42,Spring 2015 None #53,Spring 2014 None #13,Spring 2014 None #12,Spring 2014 None #36,Spring 2014 None #53
-Algebra I A.6(G),Spring 2014 None #34
-Algebra I A.7(A),Spring 2016 None #34,Spring 2016 None #45,Spring 2015 None #31,2019 May None #21,2019 May None #46,Spring 2016 None #34,Spring 2016 None #45,May-17 None #14,May-17 None #46,2018 May None #29,2018 May None #50,Spring 2014 None #7,Spring 2014 None #12,Spring 2014 None #52
-Algebra I A.7(B),Spring 2016 None #16,Spring 2016 None #37,Spring 2015 None #10,Spring 2015 None #20,Spring 2015 None #40,Spring 2016 None #16,Spring 2016 None #37,2018 May None #18,Spring 2014 None #40,Spring 2014 None #14,Spring 2014 None #26,Spring 2014 None #37
-Algebra I A.7(C),Spring 2016 None #4,Spring 2016 None #24,Spring 2016 None #41,Spring 2015 None #2,2019 May None #12,2019 May None #33,Spring 2016 None #4,Spring 2016 None #24,Spring 2016 None #41,May-17 None #4,May-17 None #24,2018 May None #14,2018 May None #48,Spring 2014 None #30,Spring 2014 None #31
-Algebra I A.8(A),Spring 2016 None #22,Spring 2016 None #29,Spring 2015 None #24,Spring 2015 None #45,2019 May None #14,2019 May None #40,Spring 2016 None #22,Spring 2016 None #29,May-17 None #7,May-17 None #34,2018 May None #22,2018 May None #41,Spring 2014 None #23,Spring 2014 None #6
-Algebra I A.8(B),Spring 2015 None #6,Spring 2015 None #35,Spring 2015 None #52,2019 May None #19,May-17 None #39,Spring 2014 None #16,Spring 2014 None #33,Spring 2014 None #43,Spring 2014 None #11,Spring 2014 None #20,Spring 2014 None #49
-Algebra I A.8(C),Spring 2014 None #46
-Algebra I A.9(A),Spring 2016 None #21,2019 May None #41,Spring 2016 None #21,May-17 None #21,2018 May None #23
-Algebra I A.9(B),2019 May None #18,May-17 None #31,2018 May None #46,Spring 2014 None #24
-Algebra I A.9(C),Spring 2016 None #28,Spring 2016 None #40,Spring 2015 None #27,2019 May None #9,2019 May None #31,Spring 2016 None #28,Spring 2016 None #40,May-17 None #15,May-17 None #35,2018 May None #17,2018 May None #33,Spring 2014 None #33
-Algebra I A.9(D),Spring 2016 None #9,Spring 2016 None #50,Spring 2015 None #17,Spring 2015 None #44,2019 May None #27,2019 May None #38,Spring 2016 None #9,Spring 2016 None #50,May-17 None #8,May-17 None #49,2018 May None #4,2018 May None #40,Spring 2014 None #22,Spring 2014 None #41,Spring 2014 None #21,Spring 2014 None #43
-Algebra I A.9(E),Spring 2016 None #17,Spring 2016 None #17
-Biology B.10(A),Spring 2014 None #7,Spring 2014 None #18,Spring 2014 None #43,May-17 None #15,May-17 None #31,May-17 None #50,Spring 2016 None #9,Spring 2016 None #26,Spring 2016 None #30,Spring 2016 None #26,Spring 2016 None #48,Spring 2015 None #13,Spring 2015 None #21,Spring 2015 None #39,Spring 2014 None #13,Spring 2014 None #26,Spring 2014 None #32,Spring 2016 None #26,Spring 2016 None #48,2018 May None #5,2018 May None #39,2018 May None #50
-Biology B.10(B),Spring 2014 None #10,May-17 None #4,May-17 None #27,May-17 None #38,Spring 2016 None #22,Spring 2016 None #33,Spring 2016 None #49,Spring 2016 None #17,Spring 2016 None #22,Spring 2016 None #42,Spring 2015 None #23,Spring 2015 None #30,Spring 2015 None #53,Spring 2014 None #2,Spring 2014 None #7,Spring 2014 None #37,Spring 2016 None #17,Spring 2016 None #22,Spring 2016 None #42,2018 May None #15,2018 May None #30,2018 May None #45
-Biology B.10(C),Spring 2014 None #20,Spring 2014 None #32,May-17 None #35,Spring 2016 None #47,Spring 2016 None #29,Spring 2016 None #44,Spring 2015 None #36,Spring 2014 None #18,Spring 2016 None #29,Spring 2016 None #44,2018 May None #33,2018 May None #54
-Biology B.11(A),Spring 2014 None #29,May-17 None #20,Spring 2016 None #45,Spring 2016 None #35,Spring 2015 None #17,Spring 2015 None #47,Spring 2014 None #21,Spring 2016 None #35,2018 May None #22
-Biology B.11(B),Spring 2014 None #8,May-17 None #45,Spring 2016 None #11,Spring 2015 None #19,Spring 2016 None #11
-Biology B.11(C),May-17 None #30,Spring 2016 None #16,Spring 2016 None #43,Spring 2014 None #14,Spring 2016 None #43,2018 May None #25
-Biology B.11(D),Spring 2014 None #38,May-17 None #11,May-17 None #41,Spring 2016 None #19,Spring 2016 None #43,Spring 2016 None #19,Spring 2015 None #4,Spring 2015 None #45,Spring 2014 None #25,Spring 2014 None #53,Spring 2016 None #19,2018 May None #17,2018 May None #41
-Biology B.12(A),Spring 2014 None #13,Spring 2014 None #39,May-17 None #3,May-17 None #37,Spring 2016 None #21,Spring 2016 None #53,Spring 2016 None #6,Spring 2016 None #23,Spring 2016 None #39,Spring 2015 None #2,Spring 2015 None #42,Spring 2014 None #23,Spring 2014 None #34,Spring 2016 None #6,Spring 2016 None #23,Spring 2016 None #39,2018 May None #9,2018 May None #44
-Biology B.12(B),Spring 2014 None #40,Spring 2016 None #4,Spring 2014 None #3,Spring 2016 None #4,2018 May None #4
-Biology B.12(C),Spring 2014 None #21,Spring 2014 None #31,May-17 None #24,May-17 None #52,Spring 2016 None #3,Spring 2016 None #31,Spring 2016 None #32,Spring 2016 None #50,Spring 2015 None #25,Spring 2015 None #40,Spring 2014 None #16,Spring 2014 None #36,Spring 2016 None #32,Spring 2016 None #50,2018 May None #20,2018 May None #53
-Biology B.12(D),Spring 2014 None #15,Spring 2016 None #13,Spring 2015 None #8
-Biology B.12(E),May-17 None #16,Spring 2016 None #48,Spring 2015 None #54,Spring 2014 None #41,2018 May None #49
-Biology B.12(F),Spring 2014 None #27,May-17 None #5,May-17 None #32,Spring 2016 None #8,Spring 2016 None #41,Spring 2016 None #15,Spring 2016 None #53,Spring 2015 None #6,Spring 2015 None #48,Spring 2014 None #10,Spring 2014 None #45,Spring 2016 None #15,Spring 2016 None #53,2018 May None #13,2018 May None #27
-Biology B.4(A),May-17 None #1,Spring 2016 None #18,Spring 2015 None #46,Spring 2016 None #18,2018 May None #40
-Biology B.4(B),Spring 2014 None #12,Spring 2014 None #16,May-17 None #17,May-17 None #40,Spring 2016 None #10,Spring 2016 None #28,Spring 2016 None #2,Spring 2016 None #31,Spring 2015 None #22,Spring 2015 None #37,Spring 2014 None #27,Spring 2014 None #33,Spring 2016 None #2,Spring 2016 None #31,2018 May None #2,2018 May None #37
-Biology B.4(C),Spring 2014 None #23,Spring 2014 None #37,May-17 None #9,May-17 None #46,Spring 2016 None #2,Spring 2016 None #36,Spring 2016 None #20,Spring 2016 None #46,Spring 2015 None #14,Spring 2015 None #50,Spring 2014 None #15,Spring 2014 None #29,Spring 2016 None #20,Spring 2016 None #46,2018 May None #7,2018 May None #48
-Biology B.5(A),Spring 2014 None #25,Spring 2014 None #41,May-17 None #7,May-17 None #33,Spring 2016 None #24,Spring 2016 None #34,Spring 2016 None #16,Spring 2016 None #51,Spring 2015 None #20,Spring 2015 None #52,Spring 2014 None #22,Spring 2014 None #47,Spring 2016 None #16,Spring 2016 None #51,2018 May None #19,2018 May None #46
-Biology B.5(B),Spring 2014 None #3,Spring 2014 None #17,May-17 None #28,Spring 2016 None #42,Spring 2016 None #9,Spring 2015 None #35,Spring 2014 None #51,Spring 2016 None #9,2018 May None #34
-Biology B.5(C),May-17 None #19,Spring 2016 None #12,Spring 2014 None #35,2018 May None #10
-Biology B.5(D),Spring 2016 None #50,Spring 2015 None #7,Spring 2014 None #6
-Biology B.6(A),Spring 2014 None #34,May-17 None #12,May-17 None #51,Spring 2016 None #27,Spring 2016 None #52,Spring 2016 None #27,Spring 2016 None #37,Spring 2015 None #24,Spring 2015 None #41,Spring 2014 None #17,Spring 2014 None #52,Spring 2016 None #27,Spring 2016 None #37,2018 May None #24,2018 May None #36
-Biology B.6(B),May-17 None #18,Spring 2016 None #29,Spring 2016 None #21,Spring 2015 None #12,Spring 2014 None #19,Spring 2016 None #21,2018 May None #38
-Biology B.6(C),Spring 2014 None #9,May-17 None #44,Spring 2016 None #17,Spring 2016 None #5,Spring 2015 None #10,Spring 2014 None #48,Spring 2016 None #5,Spring 2016 None #45,2018 May None #14
-Biology B.6(D),May-17 None #54,Spring 2016 None #20,Spring 2016 None #45,Spring 2015 None #31,Spring 2014 None #28,2018 May None #16
-Biology B.6(E),Spring 2014 None #28,Spring 2014 None #36,May-17 None #2,May-17 None #36,Spring 2016 None #4,Spring 2016 None #35,Spring 2016 None #8,Spring 2016 None #54,Spring 2015 None #3,Spring 2015 None #49,Spring 2014 None #4,Spring 2014 None #39,Spring 2016 None #8,Spring 2016 None #54,2018 May None #12,2018 May None #52
-Biology B.6(F),Spring 2014 None #4,Spring 2014 None #30,May-17 None #6,May-17 None #29,Spring 2016 None #1,Spring 2016 None #46,Spring 2016 None #25,Spring 2016 None #47,Spring 2015 None #28,Spring 2015 None #51,Spring 2014 None #24,Spring 2014 None #43,Spring 2016 None #25,Spring 2016 None #47,2018 May None #8,2018 May None #29
-Biology B.6(G),Spring 2014 None #22,May-17 None #39,Spring 2016 None #11,Spring 2016 None #41,Spring 2015 None #44,Spring 2014 None #12,Spring 2016 None #41,2018 May None #32
-Biology B.6(H),Spring 2014 None #19,May-17 None #26,Spring 2016 None #44,Spring 2016 None #14,Spring 2015 None #16,Spring 2014 None #31,Spring 2016 None #14,2018 May None #1
-Biology B.7(A),Spring 2014 None #1,May-17 None #23,May-17 None #49,Spring 2016 None #14,Spring 2016 None #40,Spring 2016 None #13,Spring 2016 None #40,Spring 2015 None #27,Spring 2015 None #43,Spring 2014 None #1,Spring 2014 None #42,Spring 2016 None #13,Spring 2016 None #40,2018 May None #6,2018 May None #51
-Biology B.7(B),May-17 None #14,Spring 2016 None #38,Spring 2015 None #38,Spring 2014 None #5,Spring 2016 None #38,2018 May None #35
-Biology B.7(C),Spring 2014 None #11,Spring 2016 None #25,Spring 2016 None #49,Spring 2016 None #49,2018 May None #28
-Biology B.7(D),Spring 2014 None #33,Spring 2016 None #7,Spring 2014 None #50
-Biology B.7(E),Spring 2014 None #2,Spring 2014 None #24,May-17 None #21,May-17 None #47,Spring 2016 None #23,Spring 2016 None #54,Spring 2016 None #1,Spring 2016 None #28,Spring 2016 None #36,Spring 2015 None #1,Spring 2015 None #34,Spring 2014 None #20,Spring 2014 None #40,Spring 2016 None #1,Spring 2016 None #28,Spring 2016 None #36,2018 May None #21,2018 May None #31
-Biology B.7(F),May-17 None #10,Spring 2015 None #18,Spring 2014 None #9
-Biology B.7(G),May-17 None #34
-Biology B.8(A),May-17 None #42,Spring 2016 None #51,Spring 2015 None #29,Spring 2014 None #38,2018 May None #23
-Biology B.8(B),Spring 2014 None #14,Spring 2014 None #42,May-17 None #25,May-17 None #53,Spring 2016 None #18,Spring 2016 None #37,Spring 2016 None #7,Spring 2016 None #30,Spring 2015 None #5,Spring 2015 None #32,Spring 2014 None #11,Spring 2014 None #54,Spring 2016 None #7,Spring 2016 None #30,2018 May None #11,2018 May None #42
-Biology B.8(C),Spring 2014 None #26,Spring 2016 None #32,Spring 2016 None #10,Spring 2015 None #9,Spring 2016 None #10,2018 May None #18
-Biology B.9(A),Spring 2014 None #6,May-17 None #13,May-17 None #43,Spring 2016 None #6,Spring 2016 None #39,Spring 2016 None #24,Spring 2016 None #34,Spring 2015 None #11,Spring 2015 None #33,Spring 2014 None #8,Spring 2014 None #44,Spring 2016 None #24,Spring 2016 None #34,2018 May None #26,2018 May None #43
-Biology B.9(B),May-17 None #48,Spring 2016 None #15,Spring 2016 None #12,Spring 2015 None #15,Spring 2014 None #46,Spring 2016 None #12,2018 May None #47
-Biology B.9(C),Spring 2014 None #5,Spring 2014 None #35,May-17 None #8,May-17 None #22,Spring 2016 None #5,Spring 2016 None #38,Spring 2016 None #3,Spring 2016 None #52,Spring 2015 None #26,Spring 2014 None #30,Spring 2014 None #49,Spring 2016 None #3,Spring 2016 None #52,2018 May None #3
-Biology B.9(D),Spring 2016 None #33,Spring 2016 None #33
-English I D.1(B),2017 March None #24,2017 March None #26,2017 March None #39,Spring 2014 None #5,Spring 2014 None #13,Spring 2016 None #39,Spring 2014 None #23,Spring 2014 None #39,Spring 2016 None #26,Spring 2016 None #36,Spring 2015 None #32,Spring 2015 None #39,2018 April None #19,2018 April None #29,2018 April None #46,Spring 2016 None #38,2019 April None #40,2019 April None #46
-English I D.1(E),Spring 2014 None #4,Spring 2014 None #7,Spring 2016 None #23,Spring 2016 None #46,2019 April None #28
-English I D.10 Fig. 19(B),2017 March None #42,2017 March None #44,Spring 2016 None #32,Spring 2014 None #45,Spring 2014 None #46,Spring 2014 None #50,Spring 2016 None #29,Spring 2016 None #30,2019 April None #27,2019 April None #29,2019 April None #31
-English I D.10(A),2017 March None #40,2017 March None #45,Spring 2016 None #31,Spring 2016 None #33,Spring 2014 None #47,Spring 2014 None #49,Spring 2015 None #23,Spring 2015 None #24,Spring 2015 None #25,Spring 2015 None #26,2018 April None #48,2018 April None #49,2018 April None #51,Spring 2016 None #49
-English I D.11 Fig. 19(B),2017 March None #32,Spring 2016 None #31,2018 April None #45,2019 April None #24
-English I D.11(A),Spring 2014 None #21,Spring 2015 None #44
-English I D.11(B),Spring 2014 None #3
-English I D.12 Fig. 19(B),2017 March None #41,Spring 2014 None #16,Spring 2016 None #29,Spring 2016 None #34,Spring 2014 None #33,Spring 2015 None #27,2018 April None #40,2018 April None #52
-English I D.12(A),Spring 2014 None #20,Spring 2016 None #44,Spring 2016 None #50
-English I D.13(C),2017 March None #2,2017 March None #3,2017 March None #5,2017 March None #7,2017 March None #9,Spring 2014 None #23,Spring 2014 None #24,Spring 2014 None #25,Spring 2014 None #29,Spring 2014 None #30,Spring 2016 None #3,Spring 2016 None #4,Spring 2016 None #5,Spring 2016 None #6,Spring 2016 None #7,Spring 2014 None #2,Spring 2014 None #3,Spring 2014 None #4,Spring 2014 None #5,Spring 2014 None #10,Spring 2016 None #2,Spring 2016 None #3,Spring 2016 None #5,Spring 2016 None #6,Spring 2016 None #9,Spring 2015 None #1,Spring 2015 None #2,Spring 2015 None #4,Spring 2015 None #10,Spring 2015 None #11,2018 April None #1,2018 April None #2,2018 April None #3,2018 April None #7,2018 April None #8,Spring 2016 None #3,Spring 2016 None #4,Spring 2016 None #5,Spring 2016 None #6,Spring 2016 None #8,Spring 2016 None #9,2019 April None #1,2019 April None #4,2019 April None #6,2019 April None #7
-English I D.13(D),2017 March None #10,2017 March None #14,Spring 2014 None #35,Spring 2014 None #38,Spring 2016 None #14,Spring 2016 None #20,Spring 2016 None #22,Spring 2014 None #13,Spring 2014 None #20,Spring 2014 None #22,Spring 2016 None #12,Spring 2016 None #14,Spring 2016 None #19,Spring 2016 None #21,Spring 2015 None #12,Spring 2015 None #16,Spring 2015 None #18,2018 April None #10,2018 April None #17,Spring 2016 None #19,Spring 2016 None #21,2019 April None #16,2019 April None #18
-English I D.14(A),Spring 2014 None #41
-English I D.15(A),2017 March None #6,2017 March None #8,2017 March None #53,Spring 2014 None #26,Spring 2014 None #27,Spring 2016 None #1,Spring 2016 None #2,Spring 2016 None #51,Spring 2014 None #7,Spring 2014 None #8,Spring 2014 None #9,Spring 2014 None #11,Spring 2014 None #51,Spring 2016 None #1,Spring 2016 None #4,Spring 2016 None #7,Spring 2016 None #8,Spring 2016 None #10,Spring 2016 None #11,Spring 2016 None #51,Spring 2015 None #3,Spring 2015 None #5,Spring 2015 None #6,Spring 2015 None #7,Spring 2015 None #8,Spring 2015 None #9,Spring 2015 None #51,2018 April None #6,2018 April None #9,2018 April None #53,Spring 2016 None #7,Spring 2016 None #10,Spring 2016 None #11,Spring 2016 None #51,2019 April None #2,2019 April None #3,2019 April None #5,2019 April None #53
-English I D.16(A),2017 March None #1,Spring 2014 None #28,Spring 2016 None #8,Spring 2016 None #9,Spring 2014 None #1,Spring 2016 None #1
-English I D.16(C),Spring 2016 None #10,2019 April None #9
-English I D.16(D),2017 March None #4,Spring 2016 None #11,Spring 2014 None #6,2018 April None #4,2018 April None #5,Spring 2016 None #2,2019 April None #8
-English I D.16(E),Spring 2014 None #31
-English I D.17(A),Spring 2014 None #33,Spring 2014 None #16,Spring 2016 None #15,Spring 2016 None #22,2019 April None #15
-English I D.17(C),2017 March None #12,2017 March None #18,Spring 2014 None #34,Spring 2014 None #40,Spring 2016 None #16,Spring 2016 None #21,Spring 2014 None #14,Spring 2014 None #21,Spring 2016 None #13,Spring 2016 None #15,Spring 2016 None #22,Spring 2015 None #14,Spring 2015 None #19,Spring 2015 None #20,2018 April None #12,2018 April None #16,Spring 2016 None #13,Spring 2016 None #17,2019 April None #11,2019 April None #14
-English I D.18(A),2017 March None #13,Spring 2014 None #36,Spring 2016 None #13,Spring 2014 None #17,2018 April None #15,Spring 2016 None #18,2019 April None #13
-English I D.18(B),2017 March None #15,2017 March None #17,Spring 2014 None #37,Spring 2014 None #39,Spring 2016 None #12,Spring 2016 None #18,Spring 2016 None #19,Spring 2014 None #15,Spring 2014 None #18,Spring 2016 None #16,Spring 2016 None #17,Spring 2016 None #18,Spring 2015 None #15,Spring 2015 None #17,Spring 2015 None #21,2018 April None #13,2018 April None #18,Spring 2016 None #12,Spring 2016 None #16,2019 April None #12,2019 April None #17
-English I D.19(A),2017 March None #11,2017 March None #16,Spring 2014 None #32,Spring 2016 None #15,Spring 2016 None #17,Spring 2014 None #12,Spring 2014 None #19,Spring 2016 None #20,Spring 2015 None #13,Spring 2015 None #22,2018 April None #11,2018 April None #14,Spring 2016 None #14,Spring 2016 None #20,2019 April None #10
-English I D.2 Fig. 19(B),2017 March None #21,2017 March None #23,Spring 2014 None #12,Spring 2014 None #38,Spring 2016 None #46,Spring 2015 None #28,Spring 2015 None #45,2018 April None #26,2019 April None #42,2019 April None #47
-English I D.2(B),Spring 2014 None #10
-English I D.2(C),Spring 2014 None #8,Spring 2016 None #48,Spring 2014 None #24,2018 April None #20
-English I D.3 Fig. 19(B),Spring 2014 None #15,Spring 2016 None #31,Spring 2016 None #32,Spring 2016 None #33,2019 April None #49,2019 April None #50,2019 April None #51,2019 April None #52
-English I D.3(A),Spring 2014 None #14,Spring 2016 None #29,Spring 2016 None #30
-English I D.4 Fig. 19(B),Spring 2014 None #43
-English I D.4(A),Spring 2014 None #40,Spring 2014 None #41,Spring 2014 None #42,Spring 2014 None #44
-English I D.5 Fig. 19 (B),Spring 2016 None #47
-English I D.5 Fig. 19(B),2017 March None #47,Spring 2014 None #9,Spring 2016 None #48,Spring 2015 None #46,Spring 2015 None #48,Spring 2015 None #50,2018 April None #24,Spring 2016 None #26,Spring 2016 None #28,2019 April None #39,2019 April None #41,2019 April None #44
-English I D.5(B),2017 March None #48,2017 March None #49,2017 March None #50,2017 March None #52,Spring 2014 None #6,Spring 2014 None #11,Spring 2016 None #45,Spring 2016 None #46,Spring 2016 None #49,Spring 2014 None #25,Spring 2014 None #27,Spring 2014 None #28,Spring 2016 None #44,Spring 2016 None #45,Spring 2016 None #49,Spring 2015 None #47,2018 April None #21,2018 April None #22,2018 April None #23,2018 April None #25,Spring 2016 None #24,Spring 2016 None #27,2019 April None #43
-English I D.5(C),2017 March None #46,Spring 2016 None #47,Spring 2015 None #49,Spring 2016 None #25,2019 April None #38
-English I D.6 Fig. 19(B),2017 March None #22,Spring 2016 None #43,Spring 2016 None #24,2018 April None #28,2018 April None #31,2018 April None #32
-English I D.6(A),2017 March None #19,2017 March None #20,2017 March None #25,Spring 2016 None #40,Spring 2016 None #42,Spring 2016 None #44,Spring 2016 None #23,Spring 2016 None #25,Spring 2016 None #27,Spring 2015 None #29,Spring 2015 None #30,Spring 2015 None #31,Spring 2015 None #33
-English I D.7 Fig. 19(B),2017 March None #51,Spring 2016 None #41,Spring 2016 None #50,Spring 2014 None #26,Spring 2016 None #50,2018 April None #27,2018 April None #33,Spring 2016 None #23,2019 April None #45,2019 April None #48
-English I D.7(A),2018 April None #30
-English I D.8 Fig. 19(B),Spring 2014 None #1,Spring 2014 None #17,Spring 2016 None #47
-English I D.8(A),2017 March None #30,2017 March None #43,Spring 2014 None #2,Spring 2014 None #19,Spring 2016 None #27,Spring 2016 None #28,Spring 2016 None #30,Spring 2014 None #29,Spring 2014 None #48,Spring 2016 None #28,Spring 2016 None #39,Spring 2016 None #41,Spring 2016 None #43,Spring 2015 None #38,2018 April None #39,2018 April None #44,2018 April None #47,2018 April None #50,Spring 2016 None #45,Spring 2016 None #48,2019 April None #19,2019 April None #22,2019 April None #26,2019 April None #30,2019 April None #32
-English I D.9 Fig. 19(B),Spring 2016 None #40
-English I D.9(A),Spring 2016 None #26,Spring 2016 None #38,Spring 2015 None #43
-English I D.9(B),Spring 2014 None #30,Spring 2016 None #37,Spring 2015 None #42,Spring 2016 None #41,2019 April None #21
-English I D.9(C),2017 March None #27,2017 March None #28,2017 March None #29,2017 March None #31,2017 March None #33,Spring 2014 None #18,Spring 2014 None #22,Spring 2016 None #24,Spring 2016 None #25,Spring 2014 None #31,Spring 2014 None #32,Spring 2016 None #40,Spring 2016 None #42,Spring 2015 None #40,Spring 2015 None #41,2018 April None #41,2018 April None #42,2018 April None #43,Spring 2016 None #39,Spring 2016 None #42,Spring 2016 None #43,2019 April None #20,2019 April None #23,2019 April None #25
-English I Fig. 19(B),2017 March None #34,2017 March None #35,2017 March None #36,2017 March None #37,2017 March None #38,Spring 2016 None #35,Spring 2016 None #36,Spring 2016 None #37,Spring 2016 None #38,Spring 2016 None #52,Spring 2016 None #53,Spring 2014 None #34,Spring 2014 None #35,Spring 2014 None #36,Spring 2014 None #37,Spring 2014 None #52,Spring 2014 None #53,Spring 2016 None #32,Spring 2016 None #33,Spring 2016 None #34,Spring 2016 None #35,Spring 2016 None #52,Spring 2016 None #53,Spring 2015 None #34,Spring 2015 None #35,Spring 2015 None #36,Spring 2015 None #37,Spring 2015 None #52,Spring 2015 None #53,2018 April None #34,2018 April None #35,2018 April None #36,2018 April None #37,2018 April None #38,Spring 2016 None #34,Spring 2016 None #35,Spring 2016 None #36,Spring 2016 None #37,Spring 2016 None #52,Spring 2016 None #53,2019 April None #33,2019 April None #34,2019 April None #35,2019 April None #36,2019 April None #37
-English II E.1(A),Spring 2015 None #39,Spring 2014 None #13,2019 April None #44
-English II E.1(B),Spring 2015 None #30,2018 April None #26,2018 April None #39,2017 March None #19,2017 March None #41,2017 March None #45,Spring 2014 None #2,Spring 2014 None #11,2019 April None #38,2019 April None #46,Spring 2016 None #37,Spring 2016 None #44,Spring 2014 None #23
-English II E.1(C),Spring 2016 None #44
-English II E.1(E),2018 April None #38,Spring 2014 None #9,Spring 2016 None #29,Spring 2014 None #38
-English II E.10 Fig. 19(B),Spring 2015 None #32,Spring 2015 None #33,2018 April None #29,2018 April None #30,2018 April None #31,2017 March None #37,2017 March None #39,2017 March None #40,2017 March None #42,2017 March None #44,2019 April None #39,2019 April None #40,2019 April None #41,2019 April None #42,2019 April None #43,Spring 2016 None #47,Spring 2016 None #39,Spring 2016 None #40,Spring 2014 None #46
-English II E.10(A),Spring 2014 None #50
-English II E.11 Fig. 19(B),Spring 2015 None #34,2018 April None #25,Spring 2016 None #32,Spring 2016 None #50,Spring 2016 None #43,Spring 2014 None #48
-English II E.11(A),Spring 2014 None #33
-English II E.11(B),Spring 2014 None #3
-English II E.12 Fig. 19(B),Spring 2015 None #28,2018 April None #32,2019 April None #47
-English II E.12(A),Spring 2016 None #50
-English II E.13(C),Spring 2015 None #2,Spring 2015 None #3,Spring 2015 None #6,Spring 2015 None #8,Spring 2015 None #9,Spring 2015 None #10,Spring 2015 None #11,2018 April None #1,2018 April None #3,2018 April None #9,2017 March None #2,2017 March None #7,2017 March None #8,2017 March None #9,Spring 2014 None #23,Spring 2014 None #24,Spring 2014 None #25,Spring 2014 None #26,Spring 2014 None #27,Spring 2014 None #30,Spring 2014 None #31,2019 April None #2,2019 April None #3,2019 April None #6,2019 April None #8,Spring 2016 None #2,Spring 2016 None #4,Spring 2016 None #5,Spring 2016 None #7,Spring 2016 None #9,Spring 2016 None #1,Spring 2016 None #6,Spring 2016 None #7,Spring 2016 None #10,Spring 2016 None #11,Spring 2014 None #1,Spring 2014 None #2,Spring 2014 None #3,Spring 2014 None #8,Spring 2014 None #10
-English II E.13(D),Spring 2015 None #14,Spring 2015 None #16,2017 March None #14,Spring 2014 None #32,Spring 2014 None #34,Spring 2014 None #40,2019 April None #14,2019 April None #18,Spring 2016 None #15,Spring 2016 None #19,Spring 2016 None #14,Spring 2016 None #17,Spring 2016 None #20,Spring 2014 None #14,Spring 2014 None #17,Spring 2014 None #21
-English II E.15(A),Spring 2015 None #7,2018 April None #6,2018 April None #7,2018 April None #8,2017 March None #1,2017 March None #3,2017 March None #4,2017 March None #5,2017 March None #6,Spring 2014 None #41,2019 April None #1,2019 April None #4,Spring 2016 None #8,Spring 2016 None #10,Spring 2016 None #11,Spring 2016 None #2,Spring 2016 None #3,Spring 2016 None #4,Spring 2016 None #5,Spring 2016 None #8,Spring 2016 None #9,Spring 2014 None #4,Spring 2014 None #5,Spring 2014 None #6
-English II E.16(A),Spring 2015 None #1,Spring 2015 None #51,2018 April None #4,2018 April None #53,2017 March None #53,Spring 2014 None #29,2019 April None #5,2019 April None #53,Spring 2016 None #1,Spring 2016 None #51,Spring 2016 None #51,Spring 2014 None #7,Spring 2014 None #9,Spring 2014 None #51
-English II E.16(D),Spring 2015 None #4,2018 April None #2,2018 April None #5,2019 April None #7,2019 April None #9,Spring 2016 None #6,Spring 2014 None #11
-English II E.16(E),Spring 2015 None #5,Spring 2014 None #28,Spring 2016 None #3
-English II E.17(A),Spring 2015 None #18,2018 April None #11,2018 April None #15,2017 March None #11,Spring 2014 None #36,Spring 2014 None #37,2019 April None #16,Spring 2016 None #17,Spring 2014 None #20
-English II E.17(C),Spring 2015 None #15,Spring 2015 None #21,2018 April None #12,2017 March None #12,2017 March None #16,Spring 2014 None #38,2019 April None #10,2019 April None #11,Spring 2016 None #14,Spring 2016 None #21,Spring 2016 None #12,Spring 2016 None #19,Spring 2014 None #16,Spring 2014 None #18
-English II E.18(A),Spring 2015 None #22,2018 April None #13,2018 April None #16,2017 March None #10,Spring 2014 None #35,2019 April None #12,Spring 2016 None #13,Spring 2016 None #13,Spring 2014 None #13
-English II E.18(B),Spring 2015 None #12,Spring 2015 None #13,Spring 2015 None #19,2018 April None #14,2018 April None #17,2017 March None #13,2017 March None #15,2017 March None #17,Spring 2014 None #39,2019 April None #13,2019 April None #15,Spring 2016 None #18,Spring 2016 None #20,Spring 2016 None #22,Spring 2016 None #15,Spring 2016 None #16,Spring 2016 None #22,Spring 2014 None #12,Spring 2014 None #15
-English II E.19(A),Spring 2015 None #17,Spring 2015 None #20,2018 April None #10,2018 April None #18,2017 March None #18,Spring 2014 None #33,2019 April None #17,Spring 2016 None #12,Spring 2016 None #16,Spring 2016 None #18,Spring 2016 None #21,Spring 2014 None #19,Spring 2014 None #22
-English II E.2 Fig. 19(B),Spring 2015 None #42,Spring 2015 None #48,2018 April None #52,2017 March None #22,2017 March None #25,2017 March None #46,Spring 2014 None #10,2019 April None #31,Spring 2016 None #23,Spring 2016 None #43,Spring 2016 None #24,Spring 2016 None #33,Spring 2014 None #41
-English II E.3 Fig. 19(B),Spring 2015 None #47,2018 April None #40,2018 April None #42,2018 April None #43,Spring 2014 None #7,Spring 2014 None #8,2019 April None #19,2019 April None #20,2019 April None #22,Spring 2014 None #39,Spring 2014 None #43
-English II E.3(A),Spring 2015 None #46,2018 April None #41,2019 April None #23,Spring 2014 None #44
-English II E.5 Fig. 19(B),Spring 2015 None #44,2018 April None #46,2018 April None #49,2018 April None #51,2017 March None #47,2017 March None #48,2017 March None #49,2017 March None #51,2017 March None #52,Spring 2014 None #17,Spring 2014 None #19,2019 April None #25,2019 April None #28,2019 April None #30,Spring 2016 None #27,Spring 2016 None #28,Spring 2014 None #25
-English II E.5(A),Spring 2015 None #43,2018 April None #48,Spring 2016 None #23,Spring 2014 None #24
-English II E.5(B),2019 April None #26,2019 April None #29,Spring 2016 None #26
-English II E.5(C),Spring 2015 None #40,2018 April None #47,Spring 2014 None #18,Spring 2014 None #21,2019 April None #27,Spring 2016 None #41,Spring 2016 None #42,Spring 2016 None #25,Spring 2014 None #26
-English II E.6 Fig. 19(B),Spring 2016 None #26,Spring 2016 None #27
-English II E.6(A),2017 March None #20,2017 March None #21,2017 March None #23,2017 March None #24,Spring 2016 None #25,Spring 2016 None #30,Spring 2016 None #31,Spring 2016 None #34
-English II E.7 Fig. 19(B),Spring 2015 None #41,Spring 2015 None #45,Spring 2015 None #49,2018 April None #45,2018 April None #50,Spring 2014 None #20,2019 April None #21,2019 April None #24,Spring 2016 None #38,Spring 2016 None #39,Spring 2016 None #40,Spring 2016 None #32,Spring 2014 None #27,Spring 2014 None #28,Spring 2014 None #40
-English II E.7(A),Spring 2015 None #50,2018 April None #44,2017 March None #50,Spring 2014 None #22,Spring 2016 None #24,Spring 2014 None #42
-English II E.8 Fig. 19(B),Spring 2014 None #1,Spring 2014 None #4,Spring 2014 None #12
-English II E.8(A),Spring 2015 None #27,Spring 2015 None #29,Spring 2015 None #31,2018 April None #19,2018 April None #20,2018 April None #27,2018 April None #28,2017 March None #26,2017 March None #38,2017 March None #43,Spring 2014 None #6,Spring 2014 None #15,Spring 2014 None #16,2019 April None #37,2019 April None #49,2019 April None #50,2019 April None #52,Spring 2016 None #45,Spring 2016 None #46,Spring 2016 None #48,Spring 2016 None #49,Spring 2016 None #41,Spring 2016 None #42,Spring 2016 None #45,Spring 2016 None #48,Spring 2014 None #31,Spring 2014 None #32,Spring 2014 None #45,Spring 2014 None #47,Spring 2014 None #49
-English II E.9(A),Spring 2015 None #26,2018 April None #21,2017 March None #31,Spring 2016 None #31
-English II E.9(B),2018 April None #22,2017 March None #28,2019 April None #48,Spring 2016 None #49,Spring 2014 None #30
-English II E.9(C),Spring 2015 None #23,Spring 2015 None #24,Spring 2015 None #25,2018 April None #23,2018 April None #24,2017 March None #27,2017 March None #29,2017 March None #30,Spring 2014 None #5,Spring 2014 None #14,2019 April None #45,2019 April None #51,Spring 2016 None #28,Spring 2016 None #29,Spring 2016 None #30,Spring 2016 None #46,Spring 2016 None #47,Spring 2014 None #29
-English II Fig. 19(B),Spring 2015 None #35,Spring 2015 None #36,Spring 2015 None #37,Spring 2015 None #38,Spring 2015 None #52,Spring 2015 None #53,2018 April None #33,2018 April None #34,2018 April None #35,2018 April None #36,2018 April None #37,2017 March None #32,2017 March None #33,2017 March None #34,2017 March None #35,2017 March None #36,2019 April None #32,2019 April None #33,2019 April None #34,2019 April None #35,2019 April None #36,Spring 2016 None #33,Spring 2016 None #34,Spring 2016 None #35,Spring 2016 None #36,Spring 2016 None #52,Spring 2016 None #53,Spring 2016 None #35,Spring 2016 None #36,Spring 2016 None #37,Spring 2016 None #38,Spring 2016 None #52,Spring 2016 None #53,Spring 2014 None #34,Spring 2014 None #35,Spring 2014 None #36,Spring 2014 None #37,Spring 2014 None #52,Spring 2014 None #53
+Algebra I A.1(A),Spring 2015  #15,Spring 2014  #29,Spring 2014  #4
+Algebra I A.1(B),Spring 2015  #46,Spring 2014  #19
+Algebra I A.1(C),Spring 2015  #21,Spring 2014  #44
+Algebra I A.1(D),Spring 2015  #7,Spring 2015  #49,Spring 2014  #2,Spring 2014  #42,Spring 2014  #15,Spring 2014  #28
+Algebra I A.1(E),Spring 2015  #9,Spring 2015  #26,Spring 2015  #32,Spring 2014  #6,Spring 2014  #10,Spring 2014  #27,Spring 2014  #9,Spring 2014  #35,Spring 2014  #54
+Algebra I A.10(A),Spring 2016  #2,Spring 2015  #3,Spring 2015  #30,Spring 2015  #37,2019 May  #16,Spring 2016  #2,May-17  #13,Spring 2014  #9,Spring 2014  #14,Spring 2014  #36,Spring 2014  #13,Spring 2014  #24,Spring 2014  #40
+Algebra I A.10(B),Spring 2016  #54,Spring 2016  #54,2018 May  #36,Spring 2014  #5
+Algebra I A.10(D),Spring 2016  #15,2019 May  #36,Spring 2016  #15,2018 May  #2
+Algebra I A.10(E),Spring 2016  #6,Spring 2016  #49,2019 May  #4,2019 May  #29,2019 May  #48,Spring 2016  #6,Spring 2016  #49,May-17  #17,May-17  #28,May-17  #41,2018 May  #11,2018 May  #31,2018 May  #44
+Algebra I A.10(F),Spring 2016  #25,Spring 2016  #25
+Algebra I A.11(A),Spring 2015  #12,2019 May  #53,May-17  #1,2018 May  #53,Spring 2014  #50
+Algebra I A.11(B),Spring 2016  #10,Spring 2016  #31,Spring 2015  #50,2019 May  #13,2019 May  #24,2019 May  #34,Spring 2016  #10,Spring 2016  #31,May-17  #6,May-17  #20,May-17  #51,2018 May  #6,2018 May  #28,2018 May  #49,Spring 2014  #4,Spring 2014  #18
+Algebra I A.11(C),Spring 2015  #22
+Algebra I A.12(A),Spring 2016  #36,2019 May  #44,Spring 2016  #36,May-17  #38
+Algebra I A.12(B),Spring 2016  #27,2019 May  #8,Spring 2016  #27,May-17  #47,2018 May  #20
+Algebra I A.12(C),May-17  #22
+Algebra I A.12(D),2018 May  #9
+Algebra I A.12(E),Spring 2016  #18,Spring 2016  #18
+Algebra I A.2(A),Spring 2016  #30,Spring 2016  #44,Spring 2015  #51,2019 May  #11,Spring 2016  #30,Spring 2016  #44,May-17  #5,May-17  #44,2018 May  #13,2018 May  #47,Spring 2014  #26,Spring 2014  #16
+Algebra I A.2(B),Spring 2016  #46,Spring 2015  #16,Spring 2015  #54,2019 May  #6,Spring 2016  #46,May-17  #23,Spring 2014  #15,Spring 2014  #37,Spring 2014  #10,Spring 2014  #39
+Algebra I A.2(C),Spring 2016  #5,Spring 2016  #35,Spring 2015  #38,2019 May  #23,2019 May  #32,Spring 2016  #5,Spring 2016  #35,May-17  #33,May-17  #50,2018 May  #1,2018 May  #43,Spring 2014  #34,Spring 2014  #30
+Algebra I A.2(D),Spring 2016  #42,Spring 2015  #1,Spring 2015  #33,2019 May  #54,Spring 2016  #42,May-17  #27,2018 May  #10,Spring 2014  #1,Spring 2014  #18,Spring 2014  #2,Spring 2014  #51
+Algebra I A.2(E),2019 May  #45
+Algebra I A.2(F),2019 May  #10,2018 May  #39
+Algebra I A.2(G),May-17  #36,2018 May  #32
+Algebra I A.2(H),Spring 2016  #3,2019 May  #15,Spring 2016  #3,May-17  #25
+Algebra I A.2(I),Spring 2016  #13,Spring 2016  #48,2019 May  #30,2019 May  #51,Spring 2016  #13,Spring 2016  #48,May-17  #2,May-17  #48,2018 May  #24,2018 May  #37
+Algebra I A.3(A),Spring 2016  #51,Spring 2015  #28,2019 May  #1,Spring 2016  #51,May-17  #16,2018 May  #51,Spring 2014  #21,Spring 2014  #32
+Algebra I A.3(B),Spring 2016  #1,Spring 2016  #19,Spring 2016  #38,Spring 2015  #5,2019 May  #5,2019 May  #20,2019 May  #39,Spring 2016  #1,Spring 2016  #19,Spring 2016  #38,May-17  #26,May-17  #52,2018 May  #21,2018 May  #42,Spring 2014  #39,Spring 2014  #23
+Algebra I A.3(C),Spring 2016  #14,Spring 2016  #23,Spring 2016  #43,2019 May  #7,2019 May  #26,2019 May  #35,Spring 2016  #14,Spring 2016  #23,Spring 2016  #43,May-17  #12,May-17  #32,May-17  #42,2018 May  #16,2018 May  #27,2018 May  #54
+Algebra I A.3(D),Spring 2016  #7,Spring 2016  #47,2019 May  #17,2019 May  #47,Spring 2016  #7,Spring 2016  #47,May-17  #3,May-17  #37,2018 May  #19,2018 May  #45
+Algebra I A.3(E),Spring 2016  #11,2019 May  #52,Spring 2016  #11,May-17  #45,2018 May  #35
+Algebra I A.3(F),Spring 2016  #32,2019 May  #49,Spring 2016  #32,May-17  #29,2018 May  #3
+Algebra I A.4(A),Spring 2015  #14,Spring 2015  #25,Spring 2015  #48,May-17  #19,Spring 2014  #32,Spring 2014  #8,Spring 2014  #25,Spring 2014  #42
+Algebra I A.4(B),Spring 2015  #19,May-17  #9,2018 May  #25,Spring 2014  #5,Spring 2014  #47
+Algebra I A.4(C),Spring 2016  #26,2019 May  #22,Spring 2016  #26,2018 May  #12
+Algebra I A.5(A),Spring 2016  #8,Spring 2016  #52,2019 May  #3,2019 May  #42,Spring 2016  #8,Spring 2016  #52,May-17  #11,May-17  #40,2018 May  #8,2018 May  #34,Spring 2014  #38
+Algebra I A.5(B),Spring 2016  #33,Spring 2015  #34,Spring 2016  #33,2018 May  #30,Spring 2014  #27
+Algebra I A.5(C),Spring 2016  #20,Spring 2016  #39,Spring 2015  #11,Spring 2015  #29,Spring 2015  #39,2019 May  #25,2019 May  #37,Spring 2016  #20,Spring 2016  #39,May-17  #18,May-17  #54,2018 May  #15,2018 May  #52,Spring 2014  #11,Spring 2014  #19,Spring 2014  #1,Spring 2014  #22,Spring 2014  #41
+Algebra I A.6(A),Spring 2016  #12,Spring 2016  #53,Spring 2015  #8,2019 May  #2,2019 May  #50,Spring 2016  #12,Spring 2016  #53,May-17  #30,May-17  #53,2018 May  #5,2018 May  #38,Spring 2014  #8,Spring 2014  #3
+Algebra I A.6(B),Spring 2015  #4,Spring 2015  #47,2019 May  #43,May-17  #43,2018 May  #26,Spring 2014  #25,Spring 2014  #35,Spring 2014  #17,Spring 2014  #38
+Algebra I A.6(C),Spring 2015  #13,Spring 2015  #36,Spring 2015  #43,2019 May  #28,May-17  #10,2018 May  #7,Spring 2014  #3,Spring 2014  #17,Spring 2014  #28,Spring 2014  #7,Spring 2014  #29,Spring 2014  #45
+Algebra I A.6(D),Spring 2015  #23,Spring 2014  #31,Spring 2014  #48
+Algebra I A.6(E),Spring 2015  #41,Spring 2014  #20
+Algebra I A.6(F),Spring 2015  #18,Spring 2015  #42,Spring 2015  #53,Spring 2014  #13,Spring 2014  #12,Spring 2014  #36,Spring 2014  #53
+Algebra I A.6(G),Spring 2014  #34
+Algebra I A.7(A),Spring 2016  #34,Spring 2016  #45,Spring 2015  #31,2019 May  #21,2019 May  #46,Spring 2016  #34,Spring 2016  #45,May-17  #14,May-17  #46,2018 May  #29,2018 May  #50,Spring 2014  #7,Spring 2014  #12,Spring 2014  #52
+Algebra I A.7(B),Spring 2016  #16,Spring 2016  #37,Spring 2015  #10,Spring 2015  #20,Spring 2015  #40,Spring 2016  #16,Spring 2016  #37,2018 May  #18,Spring 2014  #40,Spring 2014  #14,Spring 2014  #26,Spring 2014  #37
+Algebra I A.7(C),Spring 2016  #4,Spring 2016  #24,Spring 2016  #41,Spring 2015  #2,2019 May  #12,2019 May  #33,Spring 2016  #4,Spring 2016  #24,Spring 2016  #41,May-17  #4,May-17  #24,2018 May  #14,2018 May  #48,Spring 2014  #30,Spring 2014  #31
+Algebra I A.8(A),Spring 2016  #22,Spring 2016  #29,Spring 2015  #24,Spring 2015  #45,2019 May  #14,2019 May  #40,Spring 2016  #22,Spring 2016  #29,May-17  #7,May-17  #34,2018 May  #22,2018 May  #41,Spring 2014  #23,Spring 2014  #6
+Algebra I A.8(B),Spring 2015  #6,Spring 2015  #35,Spring 2015  #52,2019 May  #19,May-17  #39,Spring 2014  #16,Spring 2014  #33,Spring 2014  #43,Spring 2014  #11,Spring 2014  #20,Spring 2014  #49
+Algebra I A.8(C),Spring 2014  #46
+Algebra I A.9(A),Spring 2016  #21,2019 May  #41,Spring 2016  #21,May-17  #21,2018 May  #23
+Algebra I A.9(B),2019 May  #18,May-17  #31,2018 May  #46,Spring 2014  #24
+Algebra I A.9(C),Spring 2016  #28,Spring 2016  #40,Spring 2015  #27,2019 May  #9,2019 May  #31,Spring 2016  #28,Spring 2016  #40,May-17  #15,May-17  #35,2018 May  #17,2018 May  #33,Spring 2014  #33
+Algebra I A.9(D),Spring 2016  #9,Spring 2016  #50,Spring 2015  #17,Spring 2015  #44,2019 May  #27,2019 May  #38,Spring 2016  #9,Spring 2016  #50,May-17  #8,May-17  #49,2018 May  #4,2018 May  #40,Spring 2014  #22,Spring 2014  #41,Spring 2014  #21,Spring 2014  #43
+Algebra I A.9(E),Spring 2016  #17,Spring 2016  #17
+Biology B.10(A),Spring 2014  #7,Spring 2014  #18,Spring 2014  #43,May-17  #15,May-17  #31,May-17  #50,Spring 2016  #9,Spring 2016  #26,Spring 2016  #30,Spring 2016  #26,Spring 2016  #48,Spring 2015  #13,Spring 2015  #21,Spring 2015  #39,Spring 2014  #13,Spring 2014  #26,Spring 2014  #32,Spring 2016  #26,Spring 2016  #48,2018 May  #5,2018 May  #39,2018 May  #50
+Biology B.10(B),Spring 2014  #10,May-17  #4,May-17  #27,May-17  #38,Spring 2016  #22,Spring 2016  #33,Spring 2016  #49,Spring 2016  #17,Spring 2016  #22,Spring 2016  #42,Spring 2015  #23,Spring 2015  #30,Spring 2015  #53,Spring 2014  #2,Spring 2014  #7,Spring 2014  #37,Spring 2016  #17,Spring 2016  #22,Spring 2016  #42,2018 May  #15,2018 May  #30,2018 May  #45
+Biology B.10(C),Spring 2014  #20,Spring 2014  #32,May-17  #35,Spring 2016  #47,Spring 2016  #29,Spring 2016  #44,Spring 2015  #36,Spring 2014  #18,Spring 2016  #29,Spring 2016  #44,2018 May  #33,2018 May  #54
+Biology B.11(A),Spring 2014  #29,May-17  #20,Spring 2016  #45,Spring 2016  #35,Spring 2015  #17,Spring 2015  #47,Spring 2014  #21,Spring 2016  #35,2018 May  #22
+Biology B.11(B),Spring 2014  #8,May-17  #45,Spring 2016  #11,Spring 2015  #19,Spring 2016  #11
+Biology B.11(C),May-17  #30,Spring 2016  #16,Spring 2016  #43,Spring 2014  #14,Spring 2016  #43,2018 May  #25
+Biology B.11(D),Spring 2014  #38,May-17  #11,May-17  #41,Spring 2016  #19,Spring 2016  #43,Spring 2016  #19,Spring 2015  #4,Spring 2015  #45,Spring 2014  #25,Spring 2014  #53,Spring 2016  #19,2018 May  #17,2018 May  #41
+Biology B.12(A),Spring 2014  #13,Spring 2014  #39,May-17  #3,May-17  #37,Spring 2016  #21,Spring 2016  #53,Spring 2016  #6,Spring 2016  #23,Spring 2016  #39,Spring 2015  #2,Spring 2015  #42,Spring 2014  #23,Spring 2014  #34,Spring 2016  #6,Spring 2016  #23,Spring 2016  #39,2018 May  #9,2018 May  #44
+Biology B.12(B),Spring 2014  #40,Spring 2016  #4,Spring 2014  #3,Spring 2016  #4,2018 May  #4
+Biology B.12(C),Spring 2014  #21,Spring 2014  #31,May-17  #24,May-17  #52,Spring 2016  #3,Spring 2016  #31,Spring 2016  #32,Spring 2016  #50,Spring 2015  #25,Spring 2015  #40,Spring 2014  #16,Spring 2014  #36,Spring 2016  #32,Spring 2016  #50,2018 May  #20,2018 May  #53
+Biology B.12(D),Spring 2014  #15,Spring 2016  #13,Spring 2015  #8
+Biology B.12(E),May-17  #16,Spring 2016  #48,Spring 2015  #54,Spring 2014  #41,2018 May  #49
+Biology B.12(F),Spring 2014  #27,May-17  #5,May-17  #32,Spring 2016  #8,Spring 2016  #41,Spring 2016  #15,Spring 2016  #53,Spring 2015  #6,Spring 2015  #48,Spring 2014  #10,Spring 2014  #45,Spring 2016  #15,Spring 2016  #53,2018 May  #13,2018 May  #27
+Biology B.4(A),May-17  #1,Spring 2016  #18,Spring 2015  #46,Spring 2016  #18,2018 May  #40
+Biology B.4(B),Spring 2014  #12,Spring 2014  #16,May-17  #17,May-17  #40,Spring 2016  #10,Spring 2016  #28,Spring 2016  #2,Spring 2016  #31,Spring 2015  #22,Spring 2015  #37,Spring 2014  #27,Spring 2014  #33,Spring 2016  #2,Spring 2016  #31,2018 May  #2,2018 May  #37
+Biology B.4(C),Spring 2014  #23,Spring 2014  #37,May-17  #9,May-17  #46,Spring 2016  #2,Spring 2016  #36,Spring 2016  #20,Spring 2016  #46,Spring 2015  #14,Spring 2015  #50,Spring 2014  #15,Spring 2014  #29,Spring 2016  #20,Spring 2016  #46,2018 May  #7,2018 May  #48
+Biology B.5(A),Spring 2014  #25,Spring 2014  #41,May-17  #7,May-17  #33,Spring 2016  #24,Spring 2016  #34,Spring 2016  #16,Spring 2016  #51,Spring 2015  #20,Spring 2015  #52,Spring 2014  #22,Spring 2014  #47,Spring 2016  #16,Spring 2016  #51,2018 May  #19,2018 May  #46
+Biology B.5(B),Spring 2014  #3,Spring 2014  #17,May-17  #28,Spring 2016  #42,Spring 2016  #9,Spring 2015  #35,Spring 2014  #51,Spring 2016  #9,2018 May  #34
+Biology B.5(C),May-17  #19,Spring 2016  #12,Spring 2014  #35,2018 May  #10
+Biology B.5(D),Spring 2016  #50,Spring 2015  #7,Spring 2014  #6
+Biology B.6(A),Spring 2014  #34,May-17  #12,May-17  #51,Spring 2016  #27,Spring 2016  #52,Spring 2016  #27,Spring 2016  #37,Spring 2015  #24,Spring 2015  #41,Spring 2014  #17,Spring 2014  #52,Spring 2016  #27,Spring 2016  #37,2018 May  #24,2018 May  #36
+Biology B.6(B),May-17  #18,Spring 2016  #29,Spring 2016  #21,Spring 2015  #12,Spring 2014  #19,Spring 2016  #21,2018 May  #38
+Biology B.6(C),Spring 2014  #9,May-17  #44,Spring 2016  #17,Spring 2016  #5,Spring 2015  #10,Spring 2014  #48,Spring 2016  #5,Spring 2016  #45,2018 May  #14
+Biology B.6(D),May-17  #54,Spring 2016  #20,Spring 2016  #45,Spring 2015  #31,Spring 2014  #28,2018 May  #16
+Biology B.6(E),Spring 2014  #28,Spring 2014  #36,May-17  #2,May-17  #36,Spring 2016  #4,Spring 2016  #35,Spring 2016  #8,Spring 2016  #54,Spring 2015  #3,Spring 2015  #49,Spring 2014  #4,Spring 2014  #39,Spring 2016  #8,Spring 2016  #54,2018 May  #12,2018 May  #52
+Biology B.6(F),Spring 2014  #4,Spring 2014  #30,May-17  #6,May-17  #29,Spring 2016  #1,Spring 2016  #46,Spring 2016  #25,Spring 2016  #47,Spring 2015  #28,Spring 2015  #51,Spring 2014  #24,Spring 2014  #43,Spring 2016  #25,Spring 2016  #47,2018 May  #8,2018 May  #29
+Biology B.6(G),Spring 2014  #22,May-17  #39,Spring 2016  #11,Spring 2016  #41,Spring 2015  #44,Spring 2014  #12,Spring 2016  #41,2018 May  #32
+Biology B.6(H),Spring 2014  #19,May-17  #26,Spring 2016  #44,Spring 2016  #14,Spring 2015  #16,Spring 2014  #31,Spring 2016  #14,2018 May  #1
+Biology B.7(A),Spring 2014  #1,May-17  #23,May-17  #49,Spring 2016  #14,Spring 2016  #40,Spring 2016  #13,Spring 2016  #40,Spring 2015  #27,Spring 2015  #43,Spring 2014  #1,Spring 2014  #42,Spring 2016  #13,Spring 2016  #40,2018 May  #6,2018 May  #51
+Biology B.7(B),May-17  #14,Spring 2016  #38,Spring 2015  #38,Spring 2014  #5,Spring 2016  #38,2018 May  #35
+Biology B.7(C),Spring 2014  #11,Spring 2016  #25,Spring 2016  #49,Spring 2016  #49,2018 May  #28
+Biology B.7(D),Spring 2014  #33,Spring 2016  #7,Spring 2014  #50
+Biology B.7(E),Spring 2014  #2,Spring 2014  #24,May-17  #21,May-17  #47,Spring 2016  #23,Spring 2016  #54,Spring 2016  #1,Spring 2016  #28,Spring 2016  #36,Spring 2015  #1,Spring 2015  #34,Spring 2014  #20,Spring 2014  #40,Spring 2016  #1,Spring 2016  #28,Spring 2016  #36,2018 May  #21,2018 May  #31
+Biology B.7(F),May-17  #10,Spring 2015  #18,Spring 2014  #9
+Biology B.7(G),May-17  #34
+Biology B.8(A),May-17  #42,Spring 2016  #51,Spring 2015  #29,Spring 2014  #38,2018 May  #23
+Biology B.8(B),Spring 2014  #14,Spring 2014  #42,May-17  #25,May-17  #53,Spring 2016  #18,Spring 2016  #37,Spring 2016  #7,Spring 2016  #30,Spring 2015  #5,Spring 2015  #32,Spring 2014  #11,Spring 2014  #54,Spring 2016  #7,Spring 2016  #30,2018 May  #11,2018 May  #42
+Biology B.8(C),Spring 2014  #26,Spring 2016  #32,Spring 2016  #10,Spring 2015  #9,Spring 2016  #10,2018 May  #18
+Biology B.9(A),Spring 2014  #6,May-17  #13,May-17  #43,Spring 2016  #6,Spring 2016  #39,Spring 2016  #24,Spring 2016  #34,Spring 2015  #11,Spring 2015  #33,Spring 2014  #8,Spring 2014  #44,Spring 2016  #24,Spring 2016  #34,2018 May  #26,2018 May  #43
+Biology B.9(B),May-17  #48,Spring 2016  #15,Spring 2016  #12,Spring 2015  #15,Spring 2014  #46,Spring 2016  #12,2018 May  #47
+Biology B.9(C),Spring 2014  #5,Spring 2014  #35,May-17  #8,May-17  #22,Spring 2016  #5,Spring 2016  #38,Spring 2016  #3,Spring 2016  #52,Spring 2015  #26,Spring 2014  #30,Spring 2014  #49,Spring 2016  #3,Spring 2016  #52,2018 May  #3
+Biology B.9(D),Spring 2016  #33,Spring 2016  #33
+English I D.1(B),2017 March  #24,2017 March  #26,2017 March  #39,Spring 2014  #5,Spring 2014  #13,Spring 2016  #39,Spring 2014  #23,Spring 2014  #39,Spring 2016  #26,Spring 2016  #36,Spring 2015  #32,Spring 2015  #39,2018 April  #19,2018 April  #29,2018 April  #46,Spring 2016  #38,2019 April  #40,2019 April  #46
+English I D.1(E),Spring 2014  #4,Spring 2014  #7,Spring 2016  #23,Spring 2016  #46,2019 April  #28
+English I D.10 Fig. 19(B),2017 March  #42,2017 March  #44,Spring 2016  #32,Spring 2014  #45,Spring 2014  #46,Spring 2014  #50,Spring 2016  #29,Spring 2016  #30,2019 April  #27,2019 April  #29,2019 April  #31
+English I D.10(A),2017 March  #40,2017 March  #45,Spring 2016  #31,Spring 2016  #33,Spring 2014  #47,Spring 2014  #49,Spring 2015  #23,Spring 2015  #24,Spring 2015  #25,Spring 2015  #26,2018 April  #48,2018 April  #49,2018 April  #51,Spring 2016  #49
+English I D.11 Fig. 19(B),2017 March  #32,Spring 2016  #31,2018 April  #45,2019 April  #24
+English I D.11(A),Spring 2014  #21,Spring 2015  #44
+English I D.11(B),Spring 2014  #3
+English I D.12 Fig. 19(B),2017 March  #41,Spring 2014  #16,Spring 2016  #29,Spring 2016  #34,Spring 2014  #33,Spring 2015  #27,2018 April  #40,2018 April  #52
+English I D.12(A),Spring 2014  #20,Spring 2016  #44,Spring 2016  #50
+English I D.13(C),2017 March  #2,2017 March  #3,2017 March  #5,2017 March  #7,2017 March  #9,Spring 2014  #23,Spring 2014  #24,Spring 2014  #25,Spring 2014  #29,Spring 2014  #30,Spring 2016  #3,Spring 2016  #4,Spring 2016  #5,Spring 2016  #6,Spring 2016  #7,Spring 2014  #2,Spring 2014  #3,Spring 2014  #4,Spring 2014  #5,Spring 2014  #10,Spring 2016  #2,Spring 2016  #3,Spring 2016  #5,Spring 2016  #6,Spring 2016  #9,Spring 2015  #1,Spring 2015  #2,Spring 2015  #4,Spring 2015  #10,Spring 2015  #11,2018 April  #1,2018 April  #2,2018 April  #3,2018 April  #7,2018 April  #8,Spring 2016  #3,Spring 2016  #4,Spring 2016  #5,Spring 2016  #6,Spring 2016  #8,Spring 2016  #9,2019 April  #1,2019 April  #4,2019 April  #6,2019 April  #7
+English I D.13(D),2017 March  #10,2017 March  #14,Spring 2014  #35,Spring 2014  #38,Spring 2016  #14,Spring 2016  #20,Spring 2016  #22,Spring 2014  #13,Spring 2014  #20,Spring 2014  #22,Spring 2016  #12,Spring 2016  #14,Spring 2016  #19,Spring 2016  #21,Spring 2015  #12,Spring 2015  #16,Spring 2015  #18,2018 April  #10,2018 April  #17,Spring 2016  #19,Spring 2016  #21,2019 April  #16,2019 April  #18
+English I D.14(A),Spring 2014  #41
+English I D.15(A),2017 March  #6,2017 March  #8,2017 March  #53,Spring 2014  #26,Spring 2014  #27,Spring 2016  #1,Spring 2016  #2,Spring 2016  #51,Spring 2014  #7,Spring 2014  #8,Spring 2014  #9,Spring 2014  #11,Spring 2014  #51,Spring 2016  #1,Spring 2016  #4,Spring 2016  #7,Spring 2016  #8,Spring 2016  #10,Spring 2016  #11,Spring 2016  #51,Spring 2015  #3,Spring 2015  #5,Spring 2015  #6,Spring 2015  #7,Spring 2015  #8,Spring 2015  #9,Spring 2015  #51,2018 April  #6,2018 April  #9,2018 April  #53,Spring 2016  #7,Spring 2016  #10,Spring 2016  #11,Spring 2016  #51,2019 April  #2,2019 April  #3,2019 April  #5,2019 April  #53
+English I D.16(A),2017 March  #1,Spring 2014  #28,Spring 2016  #8,Spring 2016  #9,Spring 2014  #1,Spring 2016  #1
+English I D.16(C),Spring 2016  #10,2019 April  #9
+English I D.16(D),2017 March  #4,Spring 2016  #11,Spring 2014  #6,2018 April  #4,2018 April  #5,Spring 2016  #2,2019 April  #8
+English I D.16(E),Spring 2014  #31
+English I D.17(A),Spring 2014  #33,Spring 2014  #16,Spring 2016  #15,Spring 2016  #22,2019 April  #15
+English I D.17(C),2017 March  #12,2017 March  #18,Spring 2014  #34,Spring 2014  #40,Spring 2016  #16,Spring 2016  #21,Spring 2014  #14,Spring 2014  #21,Spring 2016  #13,Spring 2016  #15,Spring 2016  #22,Spring 2015  #14,Spring 2015  #19,Spring 2015  #20,2018 April  #12,2018 April  #16,Spring 2016  #13,Spring 2016  #17,2019 April  #11,2019 April  #14
+English I D.18(A),2017 March  #13,Spring 2014  #36,Spring 2016  #13,Spring 2014  #17,2018 April  #15,Spring 2016  #18,2019 April  #13
+English I D.18(B),2017 March  #15,2017 March  #17,Spring 2014  #37,Spring 2014  #39,Spring 2016  #12,Spring 2016  #18,Spring 2016  #19,Spring 2014  #15,Spring 2014  #18,Spring 2016  #16,Spring 2016  #17,Spring 2016  #18,Spring 2015  #15,Spring 2015  #17,Spring 2015  #21,2018 April  #13,2018 April  #18,Spring 2016  #12,Spring 2016  #16,2019 April  #12,2019 April  #17
+English I D.19(A),2017 March  #11,2017 March  #16,Spring 2014  #32,Spring 2016  #15,Spring 2016  #17,Spring 2014  #12,Spring 2014  #19,Spring 2016  #20,Spring 2015  #13,Spring 2015  #22,2018 April  #11,2018 April  #14,Spring 2016  #14,Spring 2016  #20,2019 April  #10
+English I D.2 Fig. 19(B),2017 March  #21,2017 March  #23,Spring 2014  #12,Spring 2014  #38,Spring 2016  #46,Spring 2015  #28,Spring 2015  #45,2018 April  #26,2019 April  #42,2019 April  #47
+English I D.2(B),Spring 2014  #10
+English I D.2(C),Spring 2014  #8,Spring 2016  #48,Spring 2014  #24,2018 April  #20
+English I D.3 Fig. 19(B),Spring 2014  #15,Spring 2016  #31,Spring 2016  #32,Spring 2016  #33,2019 April  #49,2019 April  #50,2019 April  #51,2019 April  #52
+English I D.3(A),Spring 2014  #14,Spring 2016  #29,Spring 2016  #30
+English I D.4 Fig. 19(B),Spring 2014  #43
+English I D.4(A),Spring 2014  #40,Spring 2014  #41,Spring 2014  #42,Spring 2014  #44
+English I D.5 Fig. 19 (B),Spring 2016  #47
+English I D.5 Fig. 19(B),2017 March  #47,Spring 2014  #9,Spring 2016  #48,Spring 2015  #46,Spring 2015  #48,Spring 2015  #50,2018 April  #24,Spring 2016  #26,Spring 2016  #28,2019 April  #39,2019 April  #41,2019 April  #44
+English I D.5(B),2017 March  #48,2017 March  #49,2017 March  #50,2017 March  #52,Spring 2014  #6,Spring 2014  #11,Spring 2016  #45,Spring 2016  #46,Spring 2016  #49,Spring 2014  #25,Spring 2014  #27,Spring 2014  #28,Spring 2016  #44,Spring 2016  #45,Spring 2016  #49,Spring 2015  #47,2018 April  #21,2018 April  #22,2018 April  #23,2018 April  #25,Spring 2016  #24,Spring 2016  #27,2019 April  #43
+English I D.5(C),2017 March  #46,Spring 2016  #47,Spring 2015  #49,Spring 2016  #25,2019 April  #38
+English I D.6 Fig. 19(B),2017 March  #22,Spring 2016  #43,Spring 2016  #24,2018 April  #28,2018 April  #31,2018 April  #32
+English I D.6(A),2017 March  #19,2017 March  #20,2017 March  #25,Spring 2016  #40,Spring 2016  #42,Spring 2016  #44,Spring 2016  #23,Spring 2016  #25,Spring 2016  #27,Spring 2015  #29,Spring 2015  #30,Spring 2015  #31,Spring 2015  #33
+English I D.7 Fig. 19(B),2017 March  #51,Spring 2016  #41,Spring 2016  #50,Spring 2014  #26,Spring 2016  #50,2018 April  #27,2018 April  #33,Spring 2016  #23,2019 April  #45,2019 April  #48
+English I D.7(A),2018 April  #30
+English I D.8 Fig. 19(B),Spring 2014  #1,Spring 2014  #17,Spring 2016  #47
+English I D.8(A),2017 March  #30,2017 March  #43,Spring 2014  #2,Spring 2014  #19,Spring 2016  #27,Spring 2016  #28,Spring 2016  #30,Spring 2014  #29,Spring 2014  #48,Spring 2016  #28,Spring 2016  #39,Spring 2016  #41,Spring 2016  #43,Spring 2015  #38,2018 April  #39,2018 April  #44,2018 April  #47,2018 April  #50,Spring 2016  #45,Spring 2016  #48,2019 April  #19,2019 April  #22,2019 April  #26,2019 April  #30,2019 April  #32
+English I D.9 Fig. 19(B),Spring 2016  #40
+English I D.9(A),Spring 2016  #26,Spring 2016  #38,Spring 2015  #43
+English I D.9(B),Spring 2014  #30,Spring 2016  #37,Spring 2015  #42,Spring 2016  #41,2019 April  #21
+English I D.9(C),2017 March  #27,2017 March  #28,2017 March  #29,2017 March  #31,2017 March  #33,Spring 2014  #18,Spring 2014  #22,Spring 2016  #24,Spring 2016  #25,Spring 2014  #31,Spring 2014  #32,Spring 2016  #40,Spring 2016  #42,Spring 2015  #40,Spring 2015  #41,2018 April  #41,2018 April  #42,2018 April  #43,Spring 2016  #39,Spring 2016  #42,Spring 2016  #43,2019 April  #20,2019 April  #23,2019 April  #25
+English I Fig. 19(B),2017 March  #34,2017 March  #35,2017 March  #36,2017 March  #37,2017 March  #38,Spring 2016  #35,Spring 2016  #36,Spring 2016  #37,Spring 2016  #38,Spring 2016  #52,Spring 2016  #53,Spring 2014  #34,Spring 2014  #35,Spring 2014  #36,Spring 2014  #37,Spring 2014  #52,Spring 2014  #53,Spring 2016  #32,Spring 2016  #33,Spring 2016  #34,Spring 2016  #35,Spring 2016  #52,Spring 2016  #53,Spring 2015  #34,Spring 2015  #35,Spring 2015  #36,Spring 2015  #37,Spring 2015  #52,Spring 2015  #53,2018 April  #34,2018 April  #35,2018 April  #36,2018 April  #37,2018 April  #38,Spring 2016  #34,Spring 2016  #35,Spring 2016  #36,Spring 2016  #37,Spring 2016  #52,Spring 2016  #53,2019 April  #33,2019 April  #34,2019 April  #35,2019 April  #36,2019 April  #37
+English II E.1(A),Spring 2015  #39,Spring 2014  #13,2019 April  #44
+English II E.1(B),Spring 2015  #30,2018 April  #26,2018 April  #39,2017 March  #19,2017 March  #41,2017 March  #45,Spring 2014  #2,Spring 2014  #11,2019 April  #38,2019 April  #46,Spring 2016  #37,Spring 2016  #44,Spring 2014  #23
+English II E.1(C),Spring 2016  #44
+English II E.1(E),2018 April  #38,Spring 2014  #9,Spring 2016  #29,Spring 2014  #38
+English II E.10 Fig. 19(B),Spring 2015  #32,Spring 2015  #33,2018 April  #29,2018 April  #30,2018 April  #31,2017 March  #37,2017 March  #39,2017 March  #40,2017 March  #42,2017 March  #44,2019 April  #39,2019 April  #40,2019 April  #41,2019 April  #42,2019 April  #43,Spring 2016  #47,Spring 2016  #39,Spring 2016  #40,Spring 2014  #46
+English II E.10(A),Spring 2014  #50
+English II E.11 Fig. 19(B),Spring 2015  #34,2018 April  #25,Spring 2016  #32,Spring 2016  #50,Spring 2016  #43,Spring 2014  #48
+English II E.11(A),Spring 2014  #33
+English II E.11(B),Spring 2014  #3
+English II E.12 Fig. 19(B),Spring 2015  #28,2018 April  #32,2019 April  #47
+English II E.12(A),Spring 2016  #50
+English II E.13(C),Spring 2015  #2,Spring 2015  #3,Spring 2015  #6,Spring 2015  #8,Spring 2015  #9,Spring 2015  #10,Spring 2015  #11,2018 April  #1,2018 April  #3,2018 April  #9,2017 March  #2,2017 March  #7,2017 March  #8,2017 March  #9,Spring 2014  #23,Spring 2014  #24,Spring 2014  #25,Spring 2014  #26,Spring 2014  #27,Spring 2014  #30,Spring 2014  #31,2019 April  #2,2019 April  #3,2019 April  #6,2019 April  #8,Spring 2016  #2,Spring 2016  #4,Spring 2016  #5,Spring 2016  #7,Spring 2016  #9,Spring 2016  #1,Spring 2016  #6,Spring 2016  #7,Spring 2016  #10,Spring 2016  #11,Spring 2014  #1,Spring 2014  #2,Spring 2014  #3,Spring 2014  #8,Spring 2014  #10
+English II E.13(D),Spring 2015  #14,Spring 2015  #16,2017 March  #14,Spring 2014  #32,Spring 2014  #34,Spring 2014  #40,2019 April  #14,2019 April  #18,Spring 2016  #15,Spring 2016  #19,Spring 2016  #14,Spring 2016  #17,Spring 2016  #20,Spring 2014  #14,Spring 2014  #17,Spring 2014  #21
+English II E.15(A),Spring 2015  #7,2018 April  #6,2018 April  #7,2018 April  #8,2017 March  #1,2017 March  #3,2017 March  #4,2017 March  #5,2017 March  #6,Spring 2014  #41,2019 April  #1,2019 April  #4,Spring 2016  #8,Spring 2016  #10,Spring 2016  #11,Spring 2016  #2,Spring 2016  #3,Spring 2016  #4,Spring 2016  #5,Spring 2016  #8,Spring 2016  #9,Spring 2014  #4,Spring 2014  #5,Spring 2014  #6
+English II E.16(A),Spring 2015  #1,Spring 2015  #51,2018 April  #4,2018 April  #53,2017 March  #53,Spring 2014  #29,2019 April  #5,2019 April  #53,Spring 2016  #1,Spring 2016  #51,Spring 2016  #51,Spring 2014  #7,Spring 2014  #9,Spring 2014  #51
+English II E.16(D),Spring 2015  #4,2018 April  #2,2018 April  #5,2019 April  #7,2019 April  #9,Spring 2016  #6,Spring 2014  #11
+English II E.16(E),Spring 2015  #5,Spring 2014  #28,Spring 2016  #3
+English II E.17(A),Spring 2015  #18,2018 April  #11,2018 April  #15,2017 March  #11,Spring 2014  #36,Spring 2014  #37,2019 April  #16,Spring 2016  #17,Spring 2014  #20
+English II E.17(C),Spring 2015  #15,Spring 2015  #21,2018 April  #12,2017 March  #12,2017 March  #16,Spring 2014  #38,2019 April  #10,2019 April  #11,Spring 2016  #14,Spring 2016  #21,Spring 2016  #12,Spring 2016  #19,Spring 2014  #16,Spring 2014  #18
+English II E.18(A),Spring 2015  #22,2018 April  #13,2018 April  #16,2017 March  #10,Spring 2014  #35,2019 April  #12,Spring 2016  #13,Spring 2016  #13,Spring 2014  #13
+English II E.18(B),Spring 2015  #12,Spring 2015  #13,Spring 2015  #19,2018 April  #14,2018 April  #17,2017 March  #13,2017 March  #15,2017 March  #17,Spring 2014  #39,2019 April  #13,2019 April  #15,Spring 2016  #18,Spring 2016  #20,Spring 2016  #22,Spring 2016  #15,Spring 2016  #16,Spring 2016  #22,Spring 2014  #12,Spring 2014  #15
+English II E.19(A),Spring 2015  #17,Spring 2015  #20,2018 April  #10,2018 April  #18,2017 March  #18,Spring 2014  #33,2019 April  #17,Spring 2016  #12,Spring 2016  #16,Spring 2016  #18,Spring 2016  #21,Spring 2014  #19,Spring 2014  #22
+English II E.2 Fig. 19(B),Spring 2015  #42,Spring 2015  #48,2018 April  #52,2017 March  #22,2017 March  #25,2017 March  #46,Spring 2014  #10,2019 April  #31,Spring 2016  #23,Spring 2016  #43,Spring 2016  #24,Spring 2016  #33,Spring 2014  #41
+English II E.3 Fig. 19(B),Spring 2015  #47,2018 April  #40,2018 April  #42,2018 April  #43,Spring 2014  #7,Spring 2014  #8,2019 April  #19,2019 April  #20,2019 April  #22,Spring 2014  #39,Spring 2014  #43
+English II E.3(A),Spring 2015  #46,2018 April  #41,2019 April  #23,Spring 2014  #44
+English II E.5 Fig. 19(B),Spring 2015  #44,2018 April  #46,2018 April  #49,2018 April  #51,2017 March  #47,2017 March  #48,2017 March  #49,2017 March  #51,2017 March  #52,Spring 2014  #17,Spring 2014  #19,2019 April  #25,2019 April  #28,2019 April  #30,Spring 2016  #27,Spring 2016  #28,Spring 2014  #25
+English II E.5(A),Spring 2015  #43,2018 April  #48,Spring 2016  #23,Spring 2014  #24
+English II E.5(B),2019 April  #26,2019 April  #29,Spring 2016  #26
+English II E.5(C),Spring 2015  #40,2018 April  #47,Spring 2014  #18,Spring 2014  #21,2019 April  #27,Spring 2016  #41,Spring 2016  #42,Spring 2016  #25,Spring 2014  #26
+English II E.6 Fig. 19(B),Spring 2016  #26,Spring 2016  #27
+English II E.6(A),2017 March  #20,2017 March  #21,2017 March  #23,2017 March  #24,Spring 2016  #25,Spring 2016  #30,Spring 2016  #31,Spring 2016  #34
+English II E.7 Fig. 19(B),Spring 2015  #41,Spring 2015  #45,Spring 2015  #49,2018 April  #45,2018 April  #50,Spring 2014  #20,2019 April  #21,2019 April  #24,Spring 2016  #38,Spring 2016  #39,Spring 2016  #40,Spring 2016  #32,Spring 2014  #27,Spring 2014  #28,Spring 2014  #40
+English II E.7(A),Spring 2015  #50,2018 April  #44,2017 March  #50,Spring 2014  #22,Spring 2016  #24,Spring 2014  #42
+English II E.8 Fig. 19(B),Spring 2014  #1,Spring 2014  #4,Spring 2014  #12
+English II E.8(A),Spring 2015  #27,Spring 2015  #29,Spring 2015  #31,2018 April  #19,2018 April  #20,2018 April  #27,2018 April  #28,2017 March  #26,2017 March  #38,2017 March  #43,Spring 2014  #6,Spring 2014  #15,Spring 2014  #16,2019 April  #37,2019 April  #49,2019 April  #50,2019 April  #52,Spring 2016  #45,Spring 2016  #46,Spring 2016  #48,Spring 2016  #49,Spring 2016  #41,Spring 2016  #42,Spring 2016  #45,Spring 2016  #48,Spring 2014  #31,Spring 2014  #32,Spring 2014  #45,Spring 2014  #47,Spring 2014  #49
+English II E.9(A),Spring 2015  #26,2018 April  #21,2017 March  #31,Spring 2016  #31
+English II E.9(B),2018 April  #22,2017 March  #28,2019 April  #48,Spring 2016  #49,Spring 2014  #30
+English II E.9(C),Spring 2015  #23,Spring 2015  #24,Spring 2015  #25,2018 April  #23,2018 April  #24,2017 March  #27,2017 March  #29,2017 March  #30,Spring 2014  #5,Spring 2014  #14,2019 April  #45,2019 April  #51,Spring 2016  #28,Spring 2016  #29,Spring 2016  #30,Spring 2016  #46,Spring 2016  #47,Spring 2014  #29
+English II Fig. 19(B),Spring 2015  #35,Spring 2015  #36,Spring 2015  #37,Spring 2015  #38,Spring 2015  #52,Spring 2015  #53,2018 April  #33,2018 April  #34,2018 April  #35,2018 April  #36,2018 April  #37,2017 March  #32,2017 March  #33,2017 March  #34,2017 March  #35,2017 March  #36,2019 April  #32,2019 April  #33,2019 April  #34,2019 April  #35,2019 April  #36,Spring 2016  #33,Spring 2016  #34,Spring 2016  #35,Spring 2016  #36,Spring 2016  #52,Spring 2016  #53,Spring 2016  #35,Spring 2016  #36,Spring 2016  #37,Spring 2016  #38,Spring 2016  #52,Spring 2016  #53,Spring 2014  #34,Spring 2014  #35,Spring 2014  #36,Spring 2014  #37,Spring 2014  #52,Spring 2014  #53
 Mathematics 3.1(A),Spring 2014 English #7
 Mathematics 3.1(B),Spring 2014 English #36,Spring 2014 Spanish #36
 Mathematics 3.1(C),Spring 2014 English #17,Spring 2014 Spanish #17
@@ -500,7 +492,7 @@ Reading 3.13 Fig. 19(E),Spring 2016 English #8,May-17 Spanish #13,Spring 2014 En
 Reading 3.13(A),Spring 2016 Spanish #20,Spring 2016 Spanish #22,Spring 2016 Spanish #35,Spring 2016 Spanish #40,Spring 2016 English #5,Spring 2016 English #7,Spring 2016 English #9,Spring 2016 English #25,Spring 2016 English #31,May-17 Spanish #11,May-17 Spanish #28,May-17 Spanish #30,May-17 Spanish #33,2018 May English #29,2018 May English #31,Spring 2014 English #19,Spring 2014 English #23,Spring 2014 English #36,Spring 2016 English #17,Spring 2016 English #39,Spring 2016 English #40,17-May English #9,17-May English #14,17-May English #30,Spring 2015 English #8,Spring 2015 English #36,Spring 2015 English #38,Spring 2015 English #40,Spring 2015 Spanish #2,Spring 2015 Spanish #20,Spring 2015 Spanish #26,Spring 2014 Spanish #8,Spring 2014 Spanish #9,Spring 2014 Spanish #19,Spring 2014 Spanish #23,2019 May English #13,2019 May English #14,2019 May English #17,2018 May Spanish #9,2018 May Spanish #10,2018 May Spanish #15,2018 May Spanish #28,2018 May Spanish #33
 Reading 3.13(B),Spring 2016 Spanish #17,Spring 2016 Spanish #26,Spring 2016 Spanish #37,Spring 2016 English #28,May-17 Spanish #14,May-17 Spanish #17,May-17 Spanish #27,2018 May English #14,2018 May English #30,2018 May English #32,Spring 2014 English #20,Spring 2014 English #33,Spring 2014 English #37,Spring 2014 English #40,Spring 2016 English #18,Spring 2016 English #21,Spring 2016 English #23,17-May English #15,17-May English #29,17-May English #34,Spring 2015 English #1,Spring 2015 English #2,Spring 2015 English #5,Spring 2015 English #7,Spring 2015 English #39,Spring 2015 Spanish #4,Spring 2015 Spanish #10,Spring 2015 Spanish #22,Spring 2014 Spanish #5,Spring 2014 Spanish #21,2019 May English #27,2019 May English #33,2018 May Spanish #13,2018 May Spanish #31
 Reading 3.13(C),Spring 2016 Spanish #21,May-17 Spanish #32,2018 May English #33,Spring 2014 English #16,Spring 2014 English #32,Spring 2016 English #16,Spring 2016 English #34,Spring 2016 English #38,17-May English #11,17-May English #31,Spring 2015 English #3,Spring 2015 English #4,Spring 2015 Spanish #3,Spring 2015 Spanish #21,Spring 2014 Spanish #1,Spring 2014 Spanish #6,2019 May English #10,2019 May English #34,2018 May Spanish #29
-Reading 3.13(C) ,Spring 2016 English #1,Spring 2016 English #26,Spring 2016 English #30
+Reading 3.13(C),Spring 2016 English #1,Spring 2016 English #26,Spring 2016 English #30
 Reading 3.13(D),Spring 2016 Spanish #25,Spring 2016 Spanish #38,Spring 2016 English #3,2018 May English #13,Spring 2014 English #22,Spring 2016 English #24,Spring 2016 English #33,17-May English #13,17-May English #26,Spring 2015 English #32,Spring 2014 Spanish #4,Spring 2014 Spanish #7,2019 May English #31,2018 May Spanish #11
 Reading 3.13A,Spring 2016 English #5,Spring 2016 English #7,Spring 2016 English #9,Spring 2016 English #25,Spring 2016 English #31
 Reading 3.13B,Spring 2016 English #28
@@ -514,7 +506,7 @@ Reading 3.2B,Spring 2016 English #21
 Reading 3.4(A),Spring 2016 Spanish #1,Spring 2016 Spanish #16,May-17 Spanish #31,Spring 2016 English #4,Spring 2015 English #15,Spring 2015 Spanish #9,Spring 2014 Spanish #26,2019 May English #32,2018 May Spanish #27
 Reading 3.4(B),Spring 2016 Spanish #8,Spring 2016 Spanish #28,Spring 2016 Spanish #39,Spring 2016 English #2,Spring 2016 English #6,Spring 2016 English #10,Spring 2016 English #34,Spring 2016 English #38,May-17 Spanish #1,May-17 Spanish #10,May-17 Spanish #25,2018 May English #1,2018 May English #5,2018 May English #10,2018 May English #12,2018 May English #28,Spring 2014 English #2,Spring 2014 English #5,Spring 2014 English #10,Spring 2014 English #27,Spring 2014 English #35,Spring 2016 English #10,Spring 2016 English #14,Spring 2016 English #19,Spring 2016 English #36,17-May English #8,17-May English #16,17-May English #23,17-May English #28,17-May English #33,Spring 2015 English #6,Spring 2015 English #11,Spring 2015 English #21,Spring 2015 English #25,Spring 2015 Spanish #16,Spring 2015 Spanish #18,Spring 2015 Spanish #25,Spring 2015 Spanish #40,Spring 2014 Spanish #12,Spring 2014 Spanish #17,Spring 2014 Spanish #35,Spring 2014 Spanish #39,2019 May English #11,2019 May English #25,2019 May English #26,2018 May Spanish #1,2018 May Spanish #8,2018 May Spanish #34
 Reading 3.4(C),Spring 2016 Spanish #18,May-17 Spanish #20,Spring 2014 English #18,Spring 2016 English #26,Spring 2015 English #33,Spring 2015 Spanish #32,Spring 2014 Spanish #3,2019 May English #4,2018 May Spanish #17
-Reading 3.4(C) ,Spring 2016 English #14
+Reading 3.4(C),Spring 2016 English #14
 Reading 3.4B,Spring 2016 English #2,Spring 2016 English #6,Spring 2016 English #10,Spring 2016 English #34,Spring 2016 English #38
 Reading 3.4C,Spring 2016 English #14
 Reading 3.5  Fig. 19(D),Spring 2016 Spanish #12,Spring 2016 Spanish #29,Spring 2016 English #27
@@ -901,184 +893,184 @@ Social Studies 8.9(A),2018 May English #18,May-17 English #40,Spring 2014 Englis
 Social Studies 8.9(B),2019 May English #20,Spring 2014 English #20
 Social Studies 8.9(C),2018 May English #10,May-17 English #30,Spring 2016 English #20,2019 May English #41,Spring 2014 English #21,Spring 2015 English #42
 Social Studies 8.9(D),May-17 English #12,Spring 2016 English #34
-U.S.  History H.1(A),May-17 None #11,2018 May None #24
-U.S.  History H.10(A),May-17 None #38
-U.S.  History H.10(D),May-17 None #55
-U.S.  History H.10(F),May-17 None #2,2018 May None #9
-U.S.  History H.11(A),May-17 None #10,2018 May None #41,2018 May None #52
-U.S.  History H.11(E),May-17 None #5
-U.S.  History H.12(A),May-17 None #43,2018 May None #5
-U.S.  History H.12(B),May-17 None #63,2018 May None #37
-U.S.  History H.13(A),May-17 None #30,2018 May None #46
-U.S.  History H.13(B),May-17 None #25,2018 May None #14
-U.S.  History H.14(A),May-17 None #15,2018 May None #19
-U.S.  History H.14(B),May-17 None #50,2018 May None #30
-U.S.  History H.15(A),May-17 None #45
-U.S.  History H.15(B),May-17 None #20,2018 May None #10
-U.S.  History H.15(D),May-17 None #12,2018 May None #33
-U.S.  History H.15(E),2018 May None #17
-U.S.  History H.16(A),May-17 None #24
-U.S.  History H.16(B),May-17 None #48,2018 May None #11
-U.S.  History H.16(C),May-17 None #7,2018 May None #64
-U.S.  History H.16(E),May-17 None #33,2018 May None #60
-U.S.  History H.17(A),May-17 None #6,2018 May None #16
-U.S.  History H.17(B),May-17 None #61,2018 May None #8
-U.S.  History H.17(D),2018 May None #61
-U.S.  History H.17(E),May-17 None #44,2018 May None #42
-U.S.  History H.18(A),May-17 None #17,2018 May None #20
-U.S.  History H.18(B),May-17 None #64
-U.S.  History H.19(A),May-17 None #54,2018 May None #57
-U.S.  History H.19(B),May-17 None #36,2018 May None #55
-U.S.  History H.19(C),May-17 None #53,2018 May None #51
-U.S.  History H.2(A),May-17 None #62
-U.S.  History H.2(B),May-17 None #40,2018 May None #66
-U.S.  History H.2(D),2018 May None #12
-U.S.  History H.20(A),May-17 None #34,2018 May None #47
-U.S.  History H.20(B),May-17 None #52,2018 May None #25
-U.S.  History H.21(A),May-17 None #31,2018 May None #36
-U.S.  History H.22(A),May-17 None #35,2018 May None #13
-U.S.  History H.23(A),May-17 None #1,2018 May None #35
-U.S.  History H.23(C),May-17 None #8,2018 May None #68
-U.S.  History H.24(B),May-17 None #49,2018 May None #34
-U.S.  History H.25(A),2018 May None #6
-U.S.  History H.25(B),May-17 None #59,2018 May None #2
-U.S.  History H.25(C),May-17 None #21,2018 May None #23
-U.S.  History H.26(A),May-17 None #22,2018 May None #50
-U.S.  History H.26(B),May-17 None #58
-U.S.  History H.26(C),May-17 None #66,2018 May None #63
-U.S.  History H.26(D),May-17 None #42,2018 May None #26
-U.S.  History H.27(A),May-17 None #65,2018 May None #1
-U.S.  History H.27(C),May-17 None #67,2018 May None #15
-U.S.  History H.28(A),May-17 None #23,2018 May None #43
-U.S.  History H.28(B),May-17 None #4,2018 May None #45
-U.S.  History H.28(C),2018 May None #4
-U.S.  History H.3(A),May-17 None #37,2018 May None #58
-U.S.  History H.3(B),May-17 None #27,2018 May None #29
-U.S.  History H.3(C),May-17 None #47,2018 May None #40
-U.S.  History H.3(D),2018 May None #18
-U.S.  History H.4(A),May-17 None #26,2018 May None #39
-U.S.  History H.4(C),May-17 None #41,2018 May None #22
-U.S.  History H.4(D),2018 May None #53
-U.S.  History H.4(E),May-17 None #51
-U.S.  History H.4(F),May-17 None #14,2018 May None #38
-U.S.  History H.5(A),May-17 None #18,2018 May None #44
-U.S.  History H.5(B),2018 May None #62
-U.S.  History H.6(A),May-17 None #56,2018 May None #54
-U.S.  History H.7(A),May-17 None #32,2018 May None #56
-U.S.  History H.7(C),2018 May None #49
-U.S.  History H.7(D),May-17 None #57,2018 May None #28
-U.S.  History H.7(G),May-17 None #68,2018 May None #65
-U.S.  History H.8(A),May-17 None #19,2018 May None #67
-U.S.  History H.8(B),May-17 None #16,May-17 None #46,2018 May None #48
-U.S.  History H.8(C),May-17 None #3,2018 May None #27
-U.S.  History H.8(D),May-17 None #60,2018 May None #7
-U.S.  History H.8(E),May-17 None #28
-U.S.  History H.8(F),May-17 None #9,2018 May None #31
-U.S.  History H.9(A),May-17 None #29,2018 May None #59
-U.S.  History H.9(D),2018 May None #21
-U.S.  History H.9(F),May-17 None #39,2018 May None #3
-U.S.  History H.9(H),May-17 None #13,2018 May None #32
-U.S. History H.1(A),Spring 2014 None #49,2019 May None #42
-U.S. History H.1(B),Spring 2015 None #35,Spring 2016 None #68,Spring 2016 None #68
-U.S. History H.10(A),Spring 2014 None #36,Spring 2016 None #63
-U.S. History H.10(B),Spring 2016 None #4,Spring 2014 None #52,Spring 2016 None #4
-U.S. History H.10(C),Spring 2015 None #5
-U.S. History H.10(D),Spring 2015 None #44,Spring 2014 None #56,Spring 2016 None #29,2019 May None #52
-U.S. History H.10(E),2019 May None #61
-U.S. History H.10(F),2019 May None #1
-U.S. History H.11(A),Spring 2015 None #12,Spring 2016 None #66,Spring 2014 None #53,Spring 2016 None #4,2019 May None #37,Spring 2016 None #66
-U.S. History H.11(B),2019 May None #21
-U.S. History H.11(D),Spring 2014 None #30
-U.S. History H.11(E),Spring 2015 None #24
-U.S. History H.12(A),Spring 2015 None #2,Spring 2016 None #59,Spring 2014 None #1,Spring 2016 None #16,Spring 2016 None #32,2019 May None #36,Spring 2016 None #59
-U.S. History H.12(B),Spring 2015 None #6,Spring 2016 None #12,Spring 2016 None #35,Spring 2016 None #18,Spring 2016 None #12,Spring 2016 None #35
-U.S. History H.13(A),Spring 2015 None #21,Spring 2016 None #18,Spring 2014 None #31,Spring 2016 None #26,2019 May None #29,Spring 2016 None #18
-U.S. History H.13(B),Spring 2015 None #26,Spring 2016 None #65,Spring 2014 None #50,Spring 2016 None #19,2019 May None #59,Spring 2016 None #65
-U.S. History H.14(A),Spring 2015 None #47,Spring 2016 None #36,Spring 2014 None #20,Spring 2016 None #41,2019 May None #35,Spring 2016 None #36
-U.S. History H.14(B),Spring 2015 None #9,Spring 2016 None #8,Spring 2014 None #4,Spring 2016 None #7,Spring 2016 None #8
-U.S. History H.14(C),2019 May None #6
-U.S. History H.15(B),Spring 2015 None #64,Spring 2016 None #19,Spring 2014 None #22,Spring 2016 None #45,2019 May None #34,Spring 2016 None #19
-U.S. History H.15(C),Spring 2016 None #29,2019 May None #63,Spring 2016 None #29
-U.S. History H.15(D),Spring 2015 None #63,Spring 2016 None #38,Spring 2014 None #23,Spring 2016 None #60,2019 May None #23,Spring 2016 None #38
-U.S. History H.15(E),Spring 2016 None #62,2019 May None #45,Spring 2016 None #62
-U.S. History H.16(A),Spring 2016 None #42,Spring 2016 None #20,Spring 2016 None #42
-U.S. History H.16(B),Spring 2015 None #18,Spring 2016 None #6,Spring 2014 None #38,Spring 2016 None #43,2019 May None #30,Spring 2016 None #6
-U.S. History H.16(C),Spring 2015 None #28,Spring 2016 None #20,Spring 2014 None #3,Spring 2016 None #21,2019 May None #58,Spring 2016 None #20
-U.S. History H.16(D),Spring 2015 None #52,Spring 2014 None #25
-U.S. History H.16(E),Spring 2014 None #61,Spring 2016 None #59,2019 May None #40
-U.S. History H.17(A),Spring 2015 None #4,Spring 2016 None #54,Spring 2014 None #54,Spring 2016 None #28,2019 May None #32,Spring 2016 None #54
-U.S. History H.17(B),Spring 2015 None #41,Spring 2016 None #15,Spring 2014 None #47,Spring 2016 None #62,2019 May None #18,Spring 2016 None #15
-U.S. History H.17(D),Spring 2015 None #3,Spring 2014 None #39,Spring 2016 None #53
-U.S. History H.17(E),Spring 2015 None #14,Spring 2016 None #9,Spring 2014 None #62,Spring 2016 None #68,2019 May None #60,Spring 2016 None #9
-U.S. History H.18(A),Spring 2015 None #66,Spring 2014 None #5
-U.S. History H.18(B),Spring 2014 None #60,Spring 2016 None #67,2019 May None #31
-U.S. History H.19(A),Spring 2015 None #43,Spring 2016 None #30,Spring 2016 None #43,Spring 2014 None #48,Spring 2016 None #23,2019 May None #64,Spring 2016 None #30,Spring 2016 None #43
-U.S. History H.19(B),Spring 2015 None #40,Spring 2014 None #27,Spring 2016 None #55,2019 May None #62
-U.S. History H.19(C),Spring 2015 None #23,Spring 2016 None #17,Spring 2016 None #24,Spring 2014 None #55,Spring 2016 None #35,2019 May None #25,Spring 2016 None #17,Spring 2016 None #24
-U.S. History H.19(D),Spring 2015 None #17,Spring 2014 None #2,Spring 2016 None #39
-U.S. History H.19(E),Spring 2015 None #48,Spring 2016 None #56
-U.S. History H.2(A),2019 May None #65
-U.S. History H.2(B),Spring 2015 None #32,Spring 2014 None #10,Spring 2014 None #64,Spring 2016 None #33,2019 May None #56
-U.S. History H.2(D),Spring 2015 None #15,Spring 2016 None #51,2019 May None #48,Spring 2016 None #51
-U.S. History H.20(A),Spring 2015 None #25,Spring 2016 None #27,2019 May None #41,Spring 2016 None #27
-U.S. History H.20(B),Spring 2015 None #57,Spring 2014 None #24,Spring 2016 None #22,2019 May None #44
-U.S. History H.21(A),Spring 2015 None #37,Spring 2016 None #45,Spring 2014 None #9,Spring 2016 None #5,2019 May None #49,Spring 2016 None #45
-U.S. History H.21(B),Spring 2016 None #10,Spring 2016 None #10
-U.S. History H.22(A),Spring 2014 None #18,2019 May None #20
-U.S. History H.23(A),Spring 2015 None #67,Spring 2016 None #3,Spring 2014 None #63,Spring 2016 None #24,2019 May None #47,Spring 2016 None #3
-U.S. History H.23(B),2019 May None #2
-U.S. History H.23(C),Spring 2016 None #31,Spring 2014 None #67,Spring 2016 None #65,Spring 2016 None #31
-U.S. History H.24(B),Spring 2015 None #51,Spring 2016 None #33,Spring 2014 None #12,Spring 2016 None #13,2019 May None #11,Spring 2016 None #33
-U.S. History H.25(A),Spring 2015 None #33,Spring 2016 None #2,Spring 2016 None #2
-U.S. History H.25(B),Spring 2015 None #34,Spring 2016 None #13,Spring 2016 None #64,Spring 2014 None #15,Spring 2016 None #11,2019 May None #46,Spring 2016 None #13,Spring 2016 None #64
-U.S. History H.25(C),Spring 2015 None #68,Spring 2014 None #7,Spring 2016 None #54
-U.S. History H.25(D),Spring 2014 None #14,2019 May None #57
-U.S. History H.26(A),Spring 2015 None #39,Spring 2016 None #7,Spring 2014 None #34,Spring 2016 None #3,2019 May None #27,Spring 2016 None #7
-U.S. History H.26(B),2019 May None #38
-U.S. History H.26(C),Spring 2015 None #59,Spring 2016 None #1,Spring 2014 None #37,Spring 2016 None #31,2019 May None #55,Spring 2016 None #1
-U.S. History H.26(D),Spring 2015 None #54,Spring 2014 None #8,2019 May None #51
-U.S. History H.26(E),2019 May None #24
-U.S. History H.26(F),Spring 2014 None #59,Spring 2016 None #64
-U.S. History H.27(A),Spring 2015 None #11,Spring 2015 None #36,Spring 2016 None #67,Spring 2014 None #33,Spring 2016 None #61,2019 May None #4,Spring 2016 None #67
-U.S. History H.27(B),Spring 2015 None #1,Spring 2016 None #16,Spring 2014 None #19,Spring 2016 None #12,2019 May None #15,Spring 2016 None #16
-U.S. History H.27(C),Spring 2015 None #60,Spring 2016 None #39,Spring 2016 None #58,Spring 2014 None #51,Spring 2016 None #50,2019 May None #43,2019 May None #53,Spring 2016 None #39,Spring 2016 None #58
-U.S. History H.28(A),Spring 2015 None #27,Spring 2016 None #21,Spring 2014 None #65,Spring 2016 None #57,2019 May None #50,Spring 2016 None #21
-U.S. History H.28(B),Spring 2015 None #8,Spring 2016 None #5,Spring 2016 None #48,Spring 2016 None #5
-U.S. History H.3(A),Spring 2015 None #56,Spring 2016 None #55,Spring 2014 None #46,Spring 2016 None #9,2019 May None #26,Spring 2016 None #55
-U.S. History H.3(B),Spring 2015 None #42,Spring 2016 None #56,Spring 2014 None #32,Spring 2016 None #8,2019 May None #10,Spring 2016 None #56
-U.S. History H.3(C),Spring 2016 None #25,Spring 2016 None #57,Spring 2014 None #40,Spring 2016 None #1,2019 May None #22,Spring 2016 None #25,Spring 2016 None #57
-U.S. History H.3(D),Spring 2016 None #40
-U.S. History H.4(A),Spring 2015 None #22,Spring 2016 None #46,Spring 2014 None #58,Spring 2016 None #14,2019 May None #33,Spring 2016 None #46
-U.S. History H.4(B),Spring 2016 None #22,Spring 2016 None #22
-U.S. History H.4(C),Spring 2015 None #58,Spring 2016 None #44,Spring 2014 None #66,Spring 2016 None #2,2019 May None #54,Spring 2016 None #44
-U.S. History H.4(D),Spring 2016 None #47,Spring 2016 None #47
-U.S. History H.4(E),Spring 2015 None #61,Spring 2014 None #11,Spring 2016 None #36,2019 May None #68
-U.S. History H.4(F),Spring 2015 None #65,Spring 2016 None #40,Spring 2016 None #34,2019 May None #28,Spring 2016 None #40
-U.S. History H.5 (A),Spring 2016 None #6
-U.S. History H.5(A),Spring 2015 None #13,Spring 2016 None #60,Spring 2014 None #57,2019 May None #39,Spring 2016 None #60
-U.S. History H.5(B),Spring 2015 None #20,Spring 2016 None #52,Spring 2016 None #38,Spring 2016 None #46,Spring 2016 None #52
-U.S. History H.5(C),Spring 2016 None #23,Spring 2016 None #23
-U.S. History H.6(A),Spring 2015 None #46,Spring 2016 None #34,Spring 2016 None #50,Spring 2014 None #29,Spring 2016 None #17,2019 May None #7,Spring 2016 None #34,Spring 2016 None #50
-U.S. History H.6(B),Spring 2014 None #13
-U.S. History H.7(A),Spring 2015 None #50,Spring 2016 None #11,Spring 2014 None #35,Spring 2016 None #52,2019 May None #3,Spring 2016 None #11
-U.S. History H.7(B),Spring 2014 None #17
-U.S. History H.7(D),Spring 2015 None #10,Spring 2016 None #41,Spring 2014 None #42,Spring 2016 None #37,2019 May None #17,Spring 2016 None #41
-U.S. History H.7(E),Spring 2015 None #45,Spring 2016 None #30
-U.S. History H.7(F),Spring 2016 None #61,Spring 2016 None #61
-U.S. History H.7(G),Spring 2015 None #7,Spring 2016 None #37,Spring 2014 None #6,Spring 2014 None #68,Spring 2016 None #47,2019 May None #13,Spring 2016 None #37
-U.S. History H.8(A),Spring 2015 None #19,Spring 2015 None #49,Spring 2016 None #53,Spring 2014 None #16,Spring 2016 None #25,2019 May None #66,Spring 2016 None #53
-U.S. History H.8(B),Spring 2015 None #31,Spring 2014 None #45,Spring 2016 None #42,2019 May None #8
-U.S. History H.8(C),Spring 2015 None #62,Spring 2014 None #28,Spring 2016 None #27,2019 May None #19
-U.S. History H.8(D),Spring 2015 None #38,Spring 2016 None #26,Spring 2014 None #21,Spring 2016 None #44,2019 May None #9,Spring 2016 None #26
-U.S. History H.8(E),Spring 2016 None #49,Spring 2016 None #66,Spring 2016 None #49
-U.S. History H.8(F),Spring 2015 None #53,Spring 2014 None #43,Spring 2016 None #10,2019 May None #14
-U.S. History H.9(A),Spring 2015 None #55,Spring 2016 None #63,Spring 2014 None #41,Spring 2016 None #58,2019 May None #12,Spring 2016 None #63
-U.S. History H.9(C),Spring 2016 None #48,Spring 2016 None #48
-U.S. History H.9(D),Spring 2015 None #16,Spring 2016 None #49
-U.S. History H.9(E),2019 May None #67
-U.S. History H.9(F),Spring 2015 None #29,Spring 2016 None #14,Spring 2016 None #15,2019 May None #5,Spring 2016 None #14
-U.S. History H.9(G),Spring 2016 None #28,Spring 2014 None #26,Spring 2016 None #28
-U.S. History H.9(H),Spring 2015 None #30,Spring 2016 None #32,Spring 2014 None #44,Spring 2016 None #51,2019 May None #16,Spring 2016 None #32
+U.S.  History H.1(A),May-17  #11,2018 May  #24
+U.S.  History H.10(A),May-17  #38
+U.S.  History H.10(D),May-17  #55
+U.S.  History H.10(F),May-17  #2,2018 May  #9
+U.S.  History H.11(A),May-17  #10,2018 May  #41,2018 May  #52
+U.S.  History H.11(E),May-17  #5
+U.S.  History H.12(A),May-17  #43,2018 May  #5
+U.S.  History H.12(B),May-17  #63,2018 May  #37
+U.S.  History H.13(A),May-17  #30,2018 May  #46
+U.S.  History H.13(B),May-17  #25,2018 May  #14
+U.S.  History H.14(A),May-17  #15,2018 May  #19
+U.S.  History H.14(B),May-17  #50,2018 May  #30
+U.S.  History H.15(A),May-17  #45
+U.S.  History H.15(B),May-17  #20,2018 May  #10
+U.S.  History H.15(D),May-17  #12,2018 May  #33
+U.S.  History H.15(E),2018 May  #17
+U.S.  History H.16(A),May-17  #24
+U.S.  History H.16(B),May-17  #48,2018 May  #11
+U.S.  History H.16(C),May-17  #7,2018 May  #64
+U.S.  History H.16(E),May-17  #33,2018 May  #60
+U.S.  History H.17(A),May-17  #6,2018 May  #16
+U.S.  History H.17(B),May-17  #61,2018 May  #8
+U.S.  History H.17(D),2018 May  #61
+U.S.  History H.17(E),May-17  #44,2018 May  #42
+U.S.  History H.18(A),May-17  #17,2018 May  #20
+U.S.  History H.18(B),May-17  #64
+U.S.  History H.19(A),May-17  #54,2018 May  #57
+U.S.  History H.19(B),May-17  #36,2018 May  #55
+U.S.  History H.19(C),May-17  #53,2018 May  #51
+U.S.  History H.2(A),May-17  #62
+U.S.  History H.2(B),May-17  #40,2018 May  #66
+U.S.  History H.2(D),2018 May  #12
+U.S.  History H.20(A),May-17  #34,2018 May  #47
+U.S.  History H.20(B),May-17  #52,2018 May  #25
+U.S.  History H.21(A),May-17  #31,2018 May  #36
+U.S.  History H.22(A),May-17  #35,2018 May  #13
+U.S.  History H.23(A),May-17  #1,2018 May  #35
+U.S.  History H.23(C),May-17  #8,2018 May  #68
+U.S.  History H.24(B),May-17  #49,2018 May  #34
+U.S.  History H.25(A),2018 May  #6
+U.S.  History H.25(B),May-17  #59,2018 May  #2
+U.S.  History H.25(C),May-17  #21,2018 May  #23
+U.S.  History H.26(A),May-17  #22,2018 May  #50
+U.S.  History H.26(B),May-17  #58
+U.S.  History H.26(C),May-17  #66,2018 May  #63
+U.S.  History H.26(D),May-17  #42,2018 May  #26
+U.S.  History H.27(A),May-17  #65,2018 May  #1
+U.S.  History H.27(C),May-17  #67,2018 May  #15
+U.S.  History H.28(A),May-17  #23,2018 May  #43
+U.S.  History H.28(B),May-17  #4,2018 May  #45
+U.S.  History H.28(C),2018 May  #4
+U.S.  History H.3(A),May-17  #37,2018 May  #58
+U.S.  History H.3(B),May-17  #27,2018 May  #29
+U.S.  History H.3(C),May-17  #47,2018 May  #40
+U.S.  History H.3(D),2018 May  #18
+U.S.  History H.4(A),May-17  #26,2018 May  #39
+U.S.  History H.4(C),May-17  #41,2018 May  #22
+U.S.  History H.4(D),2018 May  #53
+U.S.  History H.4(E),May-17  #51
+U.S.  History H.4(F),May-17  #14,2018 May  #38
+U.S.  History H.5(A),May-17  #18,2018 May  #44
+U.S.  History H.5(B),2018 May  #62
+U.S.  History H.6(A),May-17  #56,2018 May  #54
+U.S.  History H.7(A),May-17  #32,2018 May  #56
+U.S.  History H.7(C),2018 May  #49
+U.S.  History H.7(D),May-17  #57,2018 May  #28
+U.S.  History H.7(G),May-17  #68,2018 May  #65
+U.S.  History H.8(A),May-17  #19,2018 May  #67
+U.S.  History H.8(B),May-17  #16,May-17  #46,2018 May  #48
+U.S.  History H.8(C),May-17  #3,2018 May  #27
+U.S.  History H.8(D),May-17  #60,2018 May  #7
+U.S.  History H.8(E),May-17  #28
+U.S.  History H.8(F),May-17  #9,2018 May  #31
+U.S.  History H.9(A),May-17  #29,2018 May  #59
+U.S.  History H.9(D),2018 May  #21
+U.S.  History H.9(F),May-17  #39,2018 May  #3
+U.S.  History H.9(H),May-17  #13,2018 May  #32
+U.S. History H.1(A),Spring 2014  #49,2019 May  #42
+U.S. History H.1(B),Spring 2015  #35,Spring 2016  #68,Spring 2016  #68
+U.S. History H.10(A),Spring 2014  #36,Spring 2016  #63
+U.S. History H.10(B),Spring 2016  #4,Spring 2014  #52,Spring 2016  #4
+U.S. History H.10(C),Spring 2015  #5
+U.S. History H.10(D),Spring 2015  #44,Spring 2014  #56,Spring 2016  #29,2019 May  #52
+U.S. History H.10(E),2019 May  #61
+U.S. History H.10(F),2019 May  #1
+U.S. History H.11(A),Spring 2015  #12,Spring 2016  #66,Spring 2014  #53,Spring 2016  #4,2019 May  #37,Spring 2016  #66
+U.S. History H.11(B),2019 May  #21
+U.S. History H.11(D),Spring 2014  #30
+U.S. History H.11(E),Spring 2015  #24
+U.S. History H.12(A),Spring 2015  #2,Spring 2016  #59,Spring 2014  #1,Spring 2016  #16,Spring 2016  #32,2019 May  #36,Spring 2016  #59
+U.S. History H.12(B),Spring 2015  #6,Spring 2016  #12,Spring 2016  #35,Spring 2016  #18,Spring 2016  #12,Spring 2016  #35
+U.S. History H.13(A),Spring 2015  #21,Spring 2016  #18,Spring 2014  #31,Spring 2016  #26,2019 May  #29,Spring 2016  #18
+U.S. History H.13(B),Spring 2015  #26,Spring 2016  #65,Spring 2014  #50,Spring 2016  #19,2019 May  #59,Spring 2016  #65
+U.S. History H.14(A),Spring 2015  #47,Spring 2016  #36,Spring 2014  #20,Spring 2016  #41,2019 May  #35,Spring 2016  #36
+U.S. History H.14(B),Spring 2015  #9,Spring 2016  #8,Spring 2014  #4,Spring 2016  #7,Spring 2016  #8
+U.S. History H.14(C),2019 May  #6
+U.S. History H.15(B),Spring 2015  #64,Spring 2016  #19,Spring 2014  #22,Spring 2016  #45,2019 May  #34,Spring 2016  #19
+U.S. History H.15(C),Spring 2016  #29,2019 May  #63,Spring 2016  #29
+U.S. History H.15(D),Spring 2015  #63,Spring 2016  #38,Spring 2014  #23,Spring 2016  #60,2019 May  #23,Spring 2016  #38
+U.S. History H.15(E),Spring 2016  #62,2019 May  #45,Spring 2016  #62
+U.S. History H.16(A),Spring 2016  #42,Spring 2016  #20,Spring 2016  #42
+U.S. History H.16(B),Spring 2015  #18,Spring 2016  #6,Spring 2014  #38,Spring 2016  #43,2019 May  #30,Spring 2016  #6
+U.S. History H.16(C),Spring 2015  #28,Spring 2016  #20,Spring 2014  #3,Spring 2016  #21,2019 May  #58,Spring 2016  #20
+U.S. History H.16(D),Spring 2015  #52,Spring 2014  #25
+U.S. History H.16(E),Spring 2014  #61,Spring 2016  #59,2019 May  #40
+U.S. History H.17(A),Spring 2015  #4,Spring 2016  #54,Spring 2014  #54,Spring 2016  #28,2019 May  #32,Spring 2016  #54
+U.S. History H.17(B),Spring 2015  #41,Spring 2016  #15,Spring 2014  #47,Spring 2016  #62,2019 May  #18,Spring 2016  #15
+U.S. History H.17(D),Spring 2015  #3,Spring 2014  #39,Spring 2016  #53
+U.S. History H.17(E),Spring 2015  #14,Spring 2016  #9,Spring 2014  #62,Spring 2016  #68,2019 May  #60,Spring 2016  #9
+U.S. History H.18(A),Spring 2015  #66,Spring 2014  #5
+U.S. History H.18(B),Spring 2014  #60,Spring 2016  #67,2019 May  #31
+U.S. History H.19(A),Spring 2015  #43,Spring 2016  #30,Spring 2016  #43,Spring 2014  #48,Spring 2016  #23,2019 May  #64,Spring 2016  #30,Spring 2016  #43
+U.S. History H.19(B),Spring 2015  #40,Spring 2014  #27,Spring 2016  #55,2019 May  #62
+U.S. History H.19(C),Spring 2015  #23,Spring 2016  #17,Spring 2016  #24,Spring 2014  #55,Spring 2016  #35,2019 May  #25,Spring 2016  #17,Spring 2016  #24
+U.S. History H.19(D),Spring 2015  #17,Spring 2014  #2,Spring 2016  #39
+U.S. History H.19(E),Spring 2015  #48,Spring 2016  #56
+U.S. History H.2(A),2019 May  #65
+U.S. History H.2(B),Spring 2015  #32,Spring 2014  #10,Spring 2014  #64,Spring 2016  #33,2019 May  #56
+U.S. History H.2(D),Spring 2015  #15,Spring 2016  #51,2019 May  #48,Spring 2016  #51
+U.S. History H.20(A),Spring 2015  #25,Spring 2016  #27,2019 May  #41,Spring 2016  #27
+U.S. History H.20(B),Spring 2015  #57,Spring 2014  #24,Spring 2016  #22,2019 May  #44
+U.S. History H.21(A),Spring 2015  #37,Spring 2016  #45,Spring 2014  #9,Spring 2016  #5,2019 May  #49,Spring 2016  #45
+U.S. History H.21(B),Spring 2016  #10,Spring 2016  #10
+U.S. History H.22(A),Spring 2014  #18,2019 May  #20
+U.S. History H.23(A),Spring 2015  #67,Spring 2016  #3,Spring 2014  #63,Spring 2016  #24,2019 May  #47,Spring 2016  #3
+U.S. History H.23(B),2019 May  #2
+U.S. History H.23(C),Spring 2016  #31,Spring 2014  #67,Spring 2016  #65,Spring 2016  #31
+U.S. History H.24(B),Spring 2015  #51,Spring 2016  #33,Spring 2014  #12,Spring 2016  #13,2019 May  #11,Spring 2016  #33
+U.S. History H.25(A),Spring 2015  #33,Spring 2016  #2,Spring 2016  #2
+U.S. History H.25(B),Spring 2015  #34,Spring 2016  #13,Spring 2016  #64,Spring 2014  #15,Spring 2016  #11,2019 May  #46,Spring 2016  #13,Spring 2016  #64
+U.S. History H.25(C),Spring 2015  #68,Spring 2014  #7,Spring 2016  #54
+U.S. History H.25(D),Spring 2014  #14,2019 May  #57
+U.S. History H.26(A),Spring 2015  #39,Spring 2016  #7,Spring 2014  #34,Spring 2016  #3,2019 May  #27,Spring 2016  #7
+U.S. History H.26(B),2019 May  #38
+U.S. History H.26(C),Spring 2015  #59,Spring 2016  #1,Spring 2014  #37,Spring 2016  #31,2019 May  #55,Spring 2016  #1
+U.S. History H.26(D),Spring 2015  #54,Spring 2014  #8,2019 May  #51
+U.S. History H.26(E),2019 May  #24
+U.S. History H.26(F),Spring 2014  #59,Spring 2016  #64
+U.S. History H.27(A),Spring 2015  #11,Spring 2015  #36,Spring 2016  #67,Spring 2014  #33,Spring 2016  #61,2019 May  #4,Spring 2016  #67
+U.S. History H.27(B),Spring 2015  #1,Spring 2016  #16,Spring 2014  #19,Spring 2016  #12,2019 May  #15,Spring 2016  #16
+U.S. History H.27(C),Spring 2015  #60,Spring 2016  #39,Spring 2016  #58,Spring 2014  #51,Spring 2016  #50,2019 May  #43,2019 May  #53,Spring 2016  #39,Spring 2016  #58
+U.S. History H.28(A),Spring 2015  #27,Spring 2016  #21,Spring 2014  #65,Spring 2016  #57,2019 May  #50,Spring 2016  #21
+U.S. History H.28(B),Spring 2015  #8,Spring 2016  #5,Spring 2016  #48,Spring 2016  #5
+U.S. History H.3(A),Spring 2015  #56,Spring 2016  #55,Spring 2014  #46,Spring 2016  #9,2019 May  #26,Spring 2016  #55
+U.S. History H.3(B),Spring 2015  #42,Spring 2016  #56,Spring 2014  #32,Spring 2016  #8,2019 May  #10,Spring 2016  #56
+U.S. History H.3(C),Spring 2016  #25,Spring 2016  #57,Spring 2014  #40,Spring 2016  #1,2019 May  #22,Spring 2016  #25,Spring 2016  #57
+U.S. History H.3(D),Spring 2016  #40
+U.S. History H.4(A),Spring 2015  #22,Spring 2016  #46,Spring 2014  #58,Spring 2016  #14,2019 May  #33,Spring 2016  #46
+U.S. History H.4(B),Spring 2016  #22,Spring 2016  #22
+U.S. History H.4(C),Spring 2015  #58,Spring 2016  #44,Spring 2014  #66,Spring 2016  #2,2019 May  #54,Spring 2016  #44
+U.S. History H.4(D),Spring 2016  #47,Spring 2016  #47
+U.S. History H.4(E),Spring 2015  #61,Spring 2014  #11,Spring 2016  #36,2019 May  #68
+U.S. History H.4(F),Spring 2015  #65,Spring 2016  #40,Spring 2016  #34,2019 May  #28,Spring 2016  #40
+U.S. History H.5 (A),Spring 2016  #6
+U.S. History H.5(A),Spring 2015  #13,Spring 2016  #60,Spring 2014  #57,2019 May  #39,Spring 2016  #60
+U.S. History H.5(B),Spring 2015  #20,Spring 2016  #52,Spring 2016  #38,Spring 2016  #46,Spring 2016  #52
+U.S. History H.5(C),Spring 2016  #23,Spring 2016  #23
+U.S. History H.6(A),Spring 2015  #46,Spring 2016  #34,Spring 2016  #50,Spring 2014  #29,Spring 2016  #17,2019 May  #7,Spring 2016  #34,Spring 2016  #50
+U.S. History H.6(B),Spring 2014  #13
+U.S. History H.7(A),Spring 2015  #50,Spring 2016  #11,Spring 2014  #35,Spring 2016  #52,2019 May  #3,Spring 2016  #11
+U.S. History H.7(B),Spring 2014  #17
+U.S. History H.7(D),Spring 2015  #10,Spring 2016  #41,Spring 2014  #42,Spring 2016  #37,2019 May  #17,Spring 2016  #41
+U.S. History H.7(E),Spring 2015  #45,Spring 2016  #30
+U.S. History H.7(F),Spring 2016  #61,Spring 2016  #61
+U.S. History H.7(G),Spring 2015  #7,Spring 2016  #37,Spring 2014  #6,Spring 2014  #68,Spring 2016  #47,2019 May  #13,Spring 2016  #37
+U.S. History H.8(A),Spring 2015  #19,Spring 2015  #49,Spring 2016  #53,Spring 2014  #16,Spring 2016  #25,2019 May  #66,Spring 2016  #53
+U.S. History H.8(B),Spring 2015  #31,Spring 2014  #45,Spring 2016  #42,2019 May  #8
+U.S. History H.8(C),Spring 2015  #62,Spring 2014  #28,Spring 2016  #27,2019 May  #19
+U.S. History H.8(D),Spring 2015  #38,Spring 2016  #26,Spring 2014  #21,Spring 2016  #44,2019 May  #9,Spring 2016  #26
+U.S. History H.8(E),Spring 2016  #49,Spring 2016  #66,Spring 2016  #49
+U.S. History H.8(F),Spring 2015  #53,Spring 2014  #43,Spring 2016  #10,2019 May  #14
+U.S. History H.9(A),Spring 2015  #55,Spring 2016  #63,Spring 2014  #41,Spring 2016  #58,2019 May  #12,Spring 2016  #63
+U.S. History H.9(C),Spring 2016  #48,Spring 2016  #48
+U.S. History H.9(D),Spring 2015  #16,Spring 2016  #49
+U.S. History H.9(E),2019 May  #67
+U.S. History H.9(F),Spring 2015  #29,Spring 2016  #14,Spring 2016  #15,2019 May  #5,Spring 2016  #14
+U.S. History H.9(G),Spring 2016  #28,Spring 2014  #26,Spring 2016  #28
+U.S. History H.9(H),Spring 2015  #30,Spring 2016  #32,Spring 2014  #44,Spring 2016  #51,2019 May  #16,Spring 2016  #32
 Writing 4.15(C),17-Mar English #1,17-Mar English #2,17-Mar English #3,17-Mar English #4,17-Mar English #6,17-Mar English #7,Spring 2014 English #1,Spring 2014 English #2,Spring 2014 English #4,Spring 2014 English #5,Spring 2014 English #13,Spring 2014 English #14,Spring 2014 English #15,Spring 2014 English #16,2018 April Spanish #2,2018 April Spanish #3,2018 April Spanish #4,2018 April Spanish #5,2018 April Spanish #6,2018 April Spanish #7,2018 April Spanish #8,Spring 2016 Spanish #1,Spring 2016 Spanish #2,Spring 2016 Spanish #3,Spring 2016 Spanish #4,Spring 2016 Spanish #5,Spring 2016 Spanish #6,17-Mar Spanish #1,17-Mar Spanish #2,17-Mar Spanish #3,17-Mar Spanish #4,17-Mar Spanish #5,17-Mar Spanish #6,17-Mar Spanish #7,17-Mar Spanish #8,2019 April English #1,2019 April English #2,2019 April English #3,2019 April English #4,2019 April English #5,2019 April English #6,2019 April English #7,2019 April English #8,2019 April Spanish #1,2019 April Spanish #2,2019 April Spanish #3,2019 April Spanish #4,2019 April Spanish #5,2019 April Spanish #6,2019 April Spanish #7,2019 April Spanish #8,Spring 2014 Spanish #1,Spring 2014 Spanish #2,Spring 2014 Spanish #3,Spring 2014 Spanish #4,Spring 2014 Spanish #5,Spring 2014 Spanish #13,Spring 2014 Spanish #14,Spring 2014 Spanish #15,Spring 2014 Spanish #16,Spring 2016 English #1,Spring 2016 English #2,Spring 2016 English #3,Spring 2016 English #4,Spring 2016 English #5,Spring 2016 English #6,2018 April English #2,2018 April English #3,2018 April English #6,2018 April English #7,2018 April English #8,Spring 2016 English #1,Spring 2016 English #2,Spring 2016 English #3,Spring 2016 English #4,Spring 2016 English #5,Spring 2016 English #6,Spring 2015 English #2,Spring 2015 English #3,Spring 2015 English #4,Spring 2015 English #13,Spring 2015 English #14,Spring 2015 English #15,Spring 2015 English #16,Spring 2015 Spanish #1,Spring 2015 Spanish #2,Spring 2015 Spanish #3,Spring 2015 Spanish #4,Spring 2015 Spanish #5,Spring 2015 Spanish #13,Spring 2015 Spanish #14,Spring 2015 Spanish #15,Spring 2015 Spanish #16
 Writing 4.15(D),17-Mar English #9,17-Mar English #10,17-Mar English #12,17-Mar English #17,17-Mar English #21,17-Mar English #22,17-Mar English #23,Spring 2014 English #8,Spring 2014 English #11,Spring 2014 English #17,Spring 2014 English #18,Spring 2014 English #20,Spring 2014 English #25,Spring 2014 English #27,Spring 2014 English #28,2018 April Spanish #12,2018 April Spanish #16,2018 April Spanish #17,2018 April Spanish #18,2018 April Spanish #20,2018 April Spanish #23,Spring 2016 Spanish #8,Spring 2016 Spanish #13,Spring 2016 Spanish #14,Spring 2016 Spanish #17,17-Mar Spanish #14,17-Mar Spanish #19,17-Mar Spanish #21,17-Mar Spanish #22,2019 April English #10,2019 April English #16,2019 April English #17,2019 April English #19,2019 April English #21,2019 April Spanish #10,2019 April Spanish #12,2019 April Spanish #13,2019 April Spanish #15,2019 April Spanish #18,Spring 2014 Spanish #7,Spring 2014 Spanish #12,Spring 2014 Spanish #17,Spring 2014 Spanish #21,Spring 2014 Spanish #24,Spring 2014 Spanish #28,Spring 2016 English #7,Spring 2016 English #10,Spring 2016 English #11,Spring 2016 English #12,Spring 2016 English #13,2018 April English #10,2018 April English #11,2018 April English #14,2018 April English #15,2018 April English #19,2018 April English #21,2018 April English #22,2018 April English #23,Spring 2016 English #11,Spring 2016 English #14,Spring 2016 English #15,Spring 2016 English #18,Spring 2015 English #6,Spring 2015 English #12,Spring 2015 English #17,Spring 2015 English #19,Spring 2015 English #22,Spring 2015 English #24,Spring 2015 English #27,Spring 2015 Spanish #6,Spring 2015 Spanish #10,Spring 2015 Spanish #17,Spring 2015 Spanish #19,Spring 2015 Spanish #23,Spring 2015 Spanish #25,Spring 2015 Spanish #26
 Writing 4.17(A),Spring 2014 English #29,Spring 2014 Spanish #29,Spring 2015 English #29,Spring 2015 Spanish #29
